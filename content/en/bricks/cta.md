@@ -1,10 +1,10 @@
 ---
 title: cta
 ---
-## Get started with Hugobricks today!
+## el libro |[=|=]|  _"la Luna artificial: manual para tu consciencia"_
 
-Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.
+Lorem Ipsum, horas non numero nisi serenas...
 
-{{< button2 "Get started now" "/get-started/" >}}
+{{< button2 "Ir a ver el Libro" "/get-started/" >}}
 
-![](/uploads/illustrations/cuate/server.svg)
+![](/uploads/illustrations/cuate/questions-pana.svg)

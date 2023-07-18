@@ -4,7 +4,7 @@
 @import "bricks.css";
 
 /*------------------------*/
-/* theme colors
+/* theme colors backg: #d7c2c2 | accent : #d51861
 /*------------------------*/
 
 :root {
@@ -12,7 +12,7 @@
     --textMedium: rgba(38, 50, 56, 0.7);
     --borderMedium: rgba(38, 50, 56, 0.2); 
     --borderLight: rgba(38, 50, 56, 0.075);
-    --accent: #f4b500;
+    --accent: #d51861;
     --textAccent: #e6ac00;
     --light: rgba(38, 50, 56, 0.035);
 }
