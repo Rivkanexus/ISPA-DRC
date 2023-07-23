@@ -23,3 +23,9 @@ Actualmente asentado en España trabajando sobre todo con personas particulares 
 {{< /brick_about >}}
                El libro |[=|=]|  _"la Luna artificial: manual para tu consciencia"_
 {{< brick_cta >}}{{< /brick_cta >}}
+
+
+<div class="aside">
+<h2>My heading</h2>
+<p>Some text, some text, some more text.</p>
+</div>

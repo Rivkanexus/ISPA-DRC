@@ -16,6 +16,9 @@
     --textAccent: #e6ac00;
     --light: rgba(38, 50, 56, 0.035);
 }
+
+body, header, section.intro, .innerbody {background: #d7c2c2;}
+
 /*------------------------*/
 /* turn grayscale off
 /*------------------------*/
