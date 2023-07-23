@@ -10,26 +10,14 @@ menuitems:
         link:
   - title: Bio
     items: 
+      - title: Astrólogo
+        link: /astrologo/
+      - title: Formación
+        link: /formacion/
+      - title: Viajes
+        link: /viajes/
       - title: Elements
-        link: /elements/
-      - title: Header image 1
-        link: /bgimage3/
-      - title: Header image 2
-        link: /bgimage2/
-      - title: Header image 3
-        link: /bgimage/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Our team
-        link: /team/
-      - title: Contact us
-        link: /contact/
-      - title: F.A.Q.
-        link: /faq/
-      - title: 404 Page
-        link: /404.html
+        link: /elements/        
   - title: Astrología Lunar
     items: 
       - title: Elements
@@ -53,25 +41,16 @@ menuitems:
       - title: 404 Page        
   - title: Consultas
     items: 
+      - title: Fechas Beneficas
+        link: /fechas-beneficas/
+      - title: Cambio de Residencia
+        link: /cambio-de-residencia/
+      - title: Dejar de Fumar
+        link: /dejar-de-fumar/
+      - title: Consulta Personal
+        link: /consulta-personal/
       - title: Elements
-        link: /elements/
-      - title: Header image 1
-        link: /bgimage3/
-      - title: Header image 2
-        link: /bgimage2/
-      - title: Header image 3
-        link: /bgimage/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Our team
-        link: /team/
-      - title: Contact us
-        link: /contact/
-      - title: F.A.Q.
-        link: /faq/
-      - title: 404 Page
+        link: /elements/        
   - title: Libro
     items: 
       - title: Elements
