@@ -1,14 +1,14 @@
 ---
-title: F.A.Q.
+title: Preguntas Frecuentes
 image:
 --- 
 {{< brick_title >}}
 
 {{< breadcrumbs >}}
 
-# Frequently Asked Questions
+# Preguntas Frecuentes
 
-Almost everything you want to know has been asked before. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+Preguntas frecuentes entorno a la Astrología Lunar ( y su tradición china) 
 
 {{< /brick_title >}}
 {{< brick_wide >}}

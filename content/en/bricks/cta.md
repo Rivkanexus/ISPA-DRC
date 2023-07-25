@@ -5,6 +5,6 @@ title: cta
 
 Lorem Ipsum, horas non numero nisi serenas...
 
-{{< button2 "Ir a ver el Libro" "/get-started/" >}}
+{{< button2 "Ir a ver el Libro" "/indice-libro/" >}}
 
 ![](/uploads/photos/spaceship_moon.jpg)

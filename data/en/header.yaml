@@ -19,6 +19,8 @@ menuitems:
         link: /como-mejorar-tu-vida-profesional/        
       - title: La Luna en tu vida
         link: /la-luna-en-tu-vida/
+      - title: F.A.Q.
+        link: /faq/        
   - title: Consultas
     items: 
       - title: Fechas Beneficas
@@ -31,21 +33,15 @@ menuitems:
         link: /consulta-personal/
   - title: Libro
     items: 
-      - title: Elements
-        link: /elements/
-        link: /team/
-      - title: Contact us
+      - title: Índice del Libro
+        link: /indice-libro/
+      - title: Comprar libro
         link: /contact/
-      - title: F.A.Q.
-        link: /faq/
-      - title: 404 Page
   - title: Videos
     link: /videos/
     items: 
       - title:
         link:        
-  - title: Blog
-    link: /blog/
 cta:
   active: false
   title: Get started
