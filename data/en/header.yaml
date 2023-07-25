@@ -16,29 +16,14 @@ menuitems:
         link: /formacion/
       - title: Viajes
         link: /viajes/
-      - title: Elements
-        link: /elements/        
   - title: Astrología Lunar
     items: 
-      - title: Elements
-        link: /elements/
-      - title: Header image 1
-        link: /bgimage3/
-      - title: Header image 2
-        link: /bgimage2/
-      - title: Header image 3
-        link: /bgimage/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Our team
-        link: /team/
-      - title: Contact us
-        link: /contact/
-      - title: F.A.Q.
-        link: /faq/
-      - title: 404 Page        
+      - title: Como mejorar tus relalciones
+        link: /como-mejorar-tus-relaciones/
+      - title: Como mejorar tu vida profesional
+        link: /como-mejorar-tu-vida-profesional/        
+      - title: La Luna en tu vida
+        link: /la-luna-en-tu-vida/
   - title: Consultas
     items: 
       - title: Fechas Beneficas
@@ -49,8 +34,6 @@ menuitems:
         link: /dejar-de-fumar/
       - title: Consulta Personal
         link: /consulta-personal/
-      - title: Elements
-        link: /elements/        
   - title: Libro
     items: 
       - title: Elements

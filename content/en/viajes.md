@@ -3,6 +3,12 @@ title: Viajes
 image: /uploads/images/image
 weight: 1
 ---
+
+{{< brick_intro >}}
+
+
+## Viajes
+
 Hablar sobre los lugares en los que experimenté mis vivencias mundanas,
 y que me llevaron a traspasar mis propias fronteras no es un acto de megalomanía
 impostada, solo **quiero que sepas quien soy** y que me conozcas un poco más.
@@ -143,3 +149,5 @@ Regresé a **España en Agosto de dos mil catorce,** año del **Caballo**. Energ
 En estos años dejé los viajes de largo recorrido, para asentarme en un viaje profundo y hacia mi interior. Un viaje sin final pero que ya dió su resultado y es que: estoy preparado para morirme, tanto si es mañana, como si es dentro de doscientos años.
 
 Consciencia.
+
+{{< /brick_intro >}}

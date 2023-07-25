@@ -29,3 +29,5 @@ de nuestro entorno podremos adaptarnos y hacernos la vida más fácil a nosotros
 
 
 {{< /brick_intro >}}
+
+{{< brick_cta >}}{{< /brick_cta >}}

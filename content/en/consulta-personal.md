@@ -4,6 +4,10 @@ image: /uploads/images/image
 weight: 6
 ---
 
+{{< brick_intro >}}
+
+## Consulta personal o profesional
+
 La astrología lunar abarca cualquier tipo de naturaleza y correspondencia temporal.
 
 Así podemos usarla para atajar todo tipo de dilemas, conflicto, o situación por compleja que a priori te parezca, siempre y cuando el origen este conectado con una o varias 
@@ -22,3 +26,7 @@ Se apoya el proceso material y legal con las fechas óptimas para la firma de la
 
 En este tipo de casos, lo idóneo es contar con el **mayor número de datos** fiables posible, Desde la fecha de nacimiento de los socios fundadores, hasta la fecha de fundación de
 las respectivas empresas como otro tipo de fechas relevantes en la historia de las compañías, desde su fecha de origen a sus fechas fundacionales en un multinivel.
+
+{{< /brick_intro >}}
+
+{{< brick_cta >}}{{< /brick_cta >}}

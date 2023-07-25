@@ -3,6 +3,9 @@ title: Dejar de fumar
 image: /uploads/images/image
 weight: 2
 ---
+{{< brick_intro >}}
+
+## Dejar de fumar
 
 Dejar cualquier hábito puede resultar complejo y pesado. La astrología lunar te ofrece la mejor fecha posible para que rompas con cualquier tipo de atadura o hábito por muy
 arraigado que este aparezca en el tiempo. 
@@ -13,3 +16,8 @@ La fecha es como el turbo del coche. Si ponemos el motor a punto. Si los frenos,
 
 - *Precio* : 70 euros
 
+{{< /brick_intro >}}
+
+> - enlazar video - ?
+
+{{< brick_cta >}}{{< /brick_cta >}}

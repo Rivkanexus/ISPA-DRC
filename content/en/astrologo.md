@@ -4,7 +4,6 @@ image: /uploads/images/image
 weight: 3
 ---
 
-
 {{< brick_intro >}}
 
 ## Astrólogo

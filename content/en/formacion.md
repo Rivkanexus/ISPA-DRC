@@ -4,6 +4,11 @@ image: /uploads/images/image
 weight: 2
 ---
 
+{{< brick_intro >}}
+
+
+## Formacion
+
 Toda mi carrera escolar se desarrolló en el mismo centro de Estudios: **Colegio Blanca de Castilla, en Madrid** , entre las calles Eduardo Dato y Fernández de la Hoz . Desde los
 cinco años hasta los dieciocho pasé la mitad del tiempo de todos los días lectivos entres las paredes multicolores de ese lugar de trabajo. Para mí no fue un trabajo sino un
 privilegio poder disfrutar todos los días de mi vida de las mismas personas que intentaban enseñarme, a veces sin demasiado éxito, de los mismos niños y niñas que cada día
@@ -63,3 +68,6 @@ Ahí comencé a integrar otro tipo de conocimientos: **terapia craneosacral, flo
 energía lunar impone su ritmo al caminante y fabrica, si le dejas su propio camino. En mi caso con la **pareja de lo Oculto**, como combinación principal y entre año y mes, no era difícil
 entrever que mi leit motiv no iría por la vertiente convencional de la película.
 
+{{< /brick_intro >}}
+
+{{< brick_cta >}}{{< /brick_cta >}}
