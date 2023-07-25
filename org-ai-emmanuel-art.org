@@ -1,0 +1,497 @@
+* DONE teléfono : 00 34 615 74 13 88
+* ESPERA e-mail:  
+
+* DONE FAmily font <- librebits.info
+
+
+* Pasarela de Pago :
+** PayPal
+
+* Códigos de referencia
+** Formulario de Códigos de referencia
+*** Nombre:
+*** Apellidos:
+
+asignar un código de referencia a los recomendadores.
+
+* DONE Paleta de colores :
+
+ primary - #807373
+
+* EN_PROCESO ENERGÍA-HECHO
+  HECHO-ENERGÍA
+
+  font-size: 4vw
+  
+* DONE alternado home page
+** azul
+** morado <- gris-negro
+
+* slipping-background
+
+#+begin_ai
+[me] when in responsive web design, i'm facing a porblem : the background is huge, while the content stays aligned to the left side. How could i fit the viewport with the content ?
+
+[AI]: One solution is to use CSS to set the background image as a "cover" or "contain" background using the following code:
+
+body {
+  background-image: url('your-image.jpg');
+  background-size: cover; /* or contain */
+}
+
+This will make the background image resize to fit the viewport, while still maintaining the aspect ratio. If you want to align the content centered, you can use CSS to set the content's position as "absolute" and use the "left" and "top" properties to center it:
+
+.content {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+This will center the content both horizontally and vertically, regardless of the viewport size.
+
+[ME]: i don't want 
+#+end_ai
+
+  
+* how to add a css class to a markdown formatted paragraph in a hugo framework project
+#+name: how to add a css class to a markdown formatted paragraph in a hugo framework project ?
+#+begin_ai
+[SYS]: You are a helpful assistant.
+
+[ME]: how to add a css class to a markdown formatted paragraph in a hugo framework project ?
+
+[AI]: To add a CSS class to a paragraph in Markdown formatting in a Hugo framework project, you can use the following syntax:
+
+```
+{::options parse_block_html="true" /} # enable html
+
+<p class="your-class-name">Your paragraph text here.</p>
+
+{::options parse_block_html="false" /} # disable html
+```
+
+Note that this would require enabling HTML parsing in the markdown file using the `parse_block_html="true"` option.
+
+[ME]: It is not working. What are we missing here ?
+
+
+[AI]: I apologize for any confusion caused. Here are the steps to add a CSS class to a Markdown-formatted paragraph in a Hugo framework project:
+
+1. Open the Markdown file that you want to add the class to.
+
+2. Add the following at the beginning of the file:
+
+   ```
+   {::options parse_block_html="true" /}
+   ```
+
+   This will enable HTML parsing in the file.
+
+3. Write your paragraph using HTML tags and add your CSS class to the opening tag. Here is an example:
+
+   ```
+   <p class="my-class">This is a paragraph with a CSS class.</p>
+   ```
+
+4. At the end of the file, add the following to disable HTML parsing:
+
+   ```
+   {::options parse_block_html="false" /}
+   ```
+
+5. Save the file and check the rendered output to ensure that the CSS class has been applied to the paragraph.
+
+I hope this helps, and please let me know if you have any further questions.
+
+[ME]: you mean after the from matter ? can you show a css-classed.md with 'title: css-calssed' field in it  example ?
+
+[AI]: Certainly! 
+
+Here's an example of how you can add CSS classes to a paragraph in a Markdown file with front matter:
+
+```
+---
+title: CSS Classed
+---
+
+{::options parse_block_html="true" /}
+
+## Example Title
+
+<p class="my-class">This is a paragraph with a CSS class.</p>
+
+{::options parse_block_html="false" /}
+```
+
+In the code above, `{::options parse_block_html="true" /}` enables HTML parsing, allowing you to use HTML tags like `<p>` and the `class` attribute. The paragraph tag `<p>` is used for the example, but you can also use other tags, like `div`, `ul`, `ol`, etc.
+
+After the content, `{::options parse_block_html="false" /}` disables HTML parsing.
+
+Once your file is saved, Hugo will render the paragraph with the CSS class as expected.
+
+[ME]: still doesn't work... what are we missing ? 
+
+[AI]: I'm sorry to hear that it's still not working. Here are a few things you can check:
+
+1. Make sure that your Hugo project's configuration file in the root directory, typically `config.toml` or `config.yaml`, includes the following line under `[markup]`:
+
+```
+[markup.goldmark.renderer]
+unsafe = true
+```
+
+This tells Goldmark, the default Markdown renderer in Hugo, to allow rendering of raw HTML and inline CSS.
+
+2. Double-check the syntax of your Markdown file and make sure that it matches the example I provided earlier:
+
+```
+---
+title: CSS Classed
+---
+
+{::options parse_block_html="true" /}
+
+## Example Title
+
+<p class="my-class">This is a paragraph with a CSS class.</p>
+
+{::options parse_block_html="false" /}
+```
+
+Make sure that you use the BRACKET syntax (`{::options ... /}`) to open and close the options block, and that `parse_block_html` is set to `true` before the HTML code and set to `false` after.
+
+3. Check that you have properly defined the CSS class in your CSS file. For example, if you had the following CSS:
+
+```
+.my-class {
+  color: red;
+}
+```
+The text inside the paragraph with class `my-class` should be displayed in red.
+
+4. Finally, try clearing your browser cache to ensure that any old stylesheets or cached content are not interfering with the display of the styles.
+
+I hope this helps, and if you're still having trouble, let me know and we can try some more troubleshooting.
+
+[ME]: i've double checked all the steps you just suggested. Still doesn't work, what else could be missing ?
+
+[AI]: I apologize for the trouble you're experiencing. Here are a few more things to check:
+
+1. Make sure that the markdown file you're modifying is being processed by Hugo. Some site generators like Hugo use "layouts" to define the structure and the format for their website. If your markdown file is not being processed by Hugo at all, the changes you make will not be reflected on your website. To confirm that your page is being processed by Hugo, you can check if the generated HTML source code includes the proper classes for the paragraph.
+
+2. Try using another Markdown rendering engine other than Goldmark. For example, if you're using Hugo 0.60 or newer version, you can try using the commonmark renderer by making the following edit in your configuration file:
+
+```
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+renderer = "commonmark"
+```
+This should allow you to use the CSS class syntax directly in Markdown links in Hugo.
+
+3. If none of these solutions work, you could try an inline CSS approach by using the HTML `style` attribute instead of a CSS class. Here's how you would modify the paragraph tag for an inline CSS approach:
+
+```
+<p style="color: red;">This is a paragraph with inline CSS.</p>
+```
+
+Inline styles are typically considered less maintainable than class-based approaches, however, this might be a workaround for you if applying classes does not work.
+
+I hope these suggestions help, and if you're still experiencing issues, please let me know and we can continue to troubleshoot together.
+
+[ME]: 
+#+end_ai
+
+
+*  linter-typwriter : is this valid html and inline code ?
+#+name: linter-typwriter
+#+begin_ai
+[SYS]: You are a helpful assistant.
+
+[ME]: is this valid html and inline code ?
+
+```
+<p style="h1 {
+  overflow: hidden; 
+  border-right: .15em solid orange;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+;">Lorem Ipsum Y0ur typwriter effect  Inquit adspice quotiensque
+graves tamen, tamen amissamque et quem..</p>
+```
+
+[AI]: No, the code is not valid. There are a few errors: 
+
+- The inline style should not contain the opening and closing curly braces of a CSS block. Instead, only the CSS properties and their values should be included within the double quotes.
+- The text inside the `<p>` tag is not properly closed with a `</p>` tag.
+
+Here is an updated version with the corrections made:
+
+```<p style="overflow: hidden; border-right: .15em solid orange; white-space: nowrap; margin: 0; letter-spacing: .15em; animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
+   Lorem Ipsum Y0ur typewriter effect  Inquit adspice quotiensque graves tamen, tamen amissamque et quem..
+</p>
+```
+
+[ME]:  auto;
+         : 
+wep
+#+end_ai
+
+
+* safe-doc-export-from-winbugs
+#+name: safe-doc-export-from-winbugs
+#+begin_ai
+[SYS]: You are a helpful assistant.
+
+[ME]: What's the safest way of exporting to markdown format from at a Microsoft Windows created ( Openoffice) TITULARES\ FRONT\ PAGE.odt file onto a Debian GNU / Linux ? May you suggest a
+pandoc command conversion bash script for like this one ? May you refactor it ? :
+```
+  pandoc TITULARES\ FRONT\ PAGE.odt --from html --to markdown_strict -o TITULARES\ FRONT\ PAGE.md
+
+```
+
+[AI]: The safest way to export to markdown format would be to first save the OpenOffice file as a Microsoft Word document (.docx). Then, you can use pandoc to convert the .docx file to markdown format. Here is an example pandoc command you can use:
+
+```
+pandoc TITULARES_FRONT_PAGE.docx -f docx -t markdown_strict -o TITULARES_FRONT_PAGE.md
+```
+
+This will convert the TITULARES_FRONT_PAGE.docx file to markdown format and save it as TITULARES_FRONT_PAGE.md. Note that the file name should not contain spaces, as this may cause errors in the command. You can also modify the formatting options as needed for your specific use case.
+
+[ME]: can you suggest a bash script that makes file names not to contain spaces but underlines instead of ?
+
+[AI]: Certainly, here is a bash script that will replace spaces with underscores in all file names in a given directory:
+
+```
+#!/bin/bash
+# Replace spaces and single quotes with underscores in all filenames in specified directory
+
+DIRECTORY="/path/to/directory"
+
+for file in "$DIRECTORY"/*; do
+    if [[ "$file" != *[[:space:]]* ]]; then
+        continue
+    fi
+    newname=$(echo "$file" | tr ' ' '_' | tr "'" "_")
+    mv "$file" "$newname"
+done
+```
+
+
+Make sure to replace the `/path/to/directory` with the path to the directory whose files you want to modify.
+
+This script loops through each file in the specified directory and checks if the file name contains a space. If it does, it replaces the space with an underscore and renames the file. The resulting file names will have underscores instead of spaces. You can then use the modified file names in your pandoc command.
+
+Please note that you should test the script on a small sample of files first to ensure that it works as expected and to avoid any unintended consequences.
+
+[ME]: 
+#+end_ai
+
+
+* typewriter-human-pause
+#+begin_ai
+[SYS]: You are a helpful assistant.
+
+[ME]: Given the following styles.css
+```
+
+.typed  {
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid;
+    width: 0;
+    animation: typing, blinking 1s infinite;
+    animation-duration: 1.5s;
+    animation-timing-function: steps(30, end);
+    animation-fill-mode: forwards;
+  }
+
+@keyframes typing {
+    from { width: 0;}
+    to {
+      width: 100%;
+    }
+}
+
+@keyframes blinking {
+    0% {border-right-color: transparent}
+    50% {border-right-color: black;}
+    100% {border-right-color: transparent;}
+}
+
+```
+
+and this index.html relevant section,
+```
+	<section class="container">
+	    
+	    <h1 class="typed">
+		ENERGÍA HECHO-HECHO ENERGÍA
+	    </h1>
+	    <h1 class="typed" style="animation-delay: 2s;"> 	
+		Todo acontecimiento en el plano de 
+	    </h1>
+	    <h1 class="typed" style="animation-delay: 4s;"> 	
+		nuestra realidad queda automáticamente 
+	    </h1>
+
+	    <h1 class="typed" style="animation-delay: 6s; color: var(--accent-color);"> 	
+		respaldado por la energía lunar.
+	    </h1>
+	    <h1 class="typed" style="animation-delay: 8s;">	    
+  	        que le corresponde y viceversa.
+	    </h1>
+	    <h1 class="typed" style="animation-delay: 10s;">	    
+		Nada en la Tierra sucede
+	    </h1>
+	    <h1 class="typed" style="animation-delay: 12s;color: var(--accent-color);">	    
+		sin el permiso de la Luna.
+	    </h1>
+	</section>
+
+```
+
+how can i add a pause in the typwriter effect ?
+
+
+[AI]: You can add a pause to the typewriter effect by adding a delay to the `typing` animation. Here's an updated CSS code that adds a 2 second pause after each line is fully typed:
+
+```
+.typed  {
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid;
+    width: 0;
+    animation: typing 1.5s steps(30, end), typing-pause 2s 1 forwards, blinking 1s infinite;
+}
+
+@keyframes typing {
+    from { width: 0;}
+    to {
+      width: 100%;
+    }
+}
+
+@keyframes blinking {
+    0% {border-right-color: transparent}
+    50% {border-right-color: black;}
+    100% {border-right-color: transparent;}
+}
+
+@keyframes typing-pause {
+    from { width: 100%; }
+    to { width: 100%; }
+}
+```
+
+Notice that the animation property now includes three animations: `typing`, `typing-pause`, and `blinking`. The `typing-pause` animation has a duration of 2 seconds with a fill-mode of `forwards`, which means the final state of the animation (100% width) will be retained after the animation ends. Also, `typing` animation's duration is now lowered to 1.5 seconds to keep the same overall duration for the text animation. 
+
+You may adjust the `animation-delay` inline styles in the HTML to start each line with the desired delay.
+
+[ME]: How can i add a typewriting pause in the middle of 3rd and 5th lines , keeping the rest of the code i gave at first ?
+
+[AI]: To add a typewriting pause in the middle of the 3rd and 5th lines, you can modify the `animation` property in the `.typed` class, and add a new `@keyframes` named `typing-pause`. Here's an updated CSS code that adds the pause in the 3rd and 5th lines:
+
+```
+.typed  {
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid;
+    width: 0;
+    animation: typing-1 1.5s steps(30, end), typing-pause-1 2s 1 forwards, typing-2 1.5s steps(30, end), typing-pause-2 2s 1 forwards, typing-3 1.5s steps(30, end), blinking 1s infinite;
+}
+
+@keyframes typing-1 {
+    0% { width: 0; }
+    50% { width: 100%; }
+    100% { width: 100%; }
+}
+
+@keyframes typing-pause-1 {
+    from { width: 100%; }
+    to { width: 100%; }
+}
+
+@keyframes typing-2 {
+    0% { width: 0; }
+    50% { width: 100%; }
+    100% { width: 100%; }
+}
+
+@keyframes typing-pause-2 {
+    from { width: 100%; }
+    to { width: 100%; }
+}
+
+@keyframes typing-3 {
+    0% { width: 0; }
+    50% { width: 100%; }
+    100% { width: 100%; }
+}
+
+@keyframes blinking {
+    0% {border-right-color: transparent}
+    50% {border-right-color: black;}
+    100% {border-right-color: transparent;}
+}
+```
+
+Here, I've added two new `@keyframes` animations named `typing-pause-1` and `typing-pause-2` that will be used to pause the typewriter animation. I've also modified the `animation` property in the `.typed` class to include all three lines and the pauses as follows:
+
+- `typing-1` animates the first line and has a total duration of 1.5 seconds.
+- `typing-pause-1` adds a pause of 2 seconds after the first line is fully typed.
+- `typing-2` animates the second line and has a total duration of 1.5 seconds.
+- `typing-pause-2` adds a pause of 2 seconds after the second line is fully typed.
+- `typing-3` animates the third line and has a total duration of 1.5 seconds.
+- `blinking` animation animates the blinking effect.
+
+You'll also need to modify the `animation-delay` inline styles in the HTML to start each line with the necessary delay, as follows:
+
+```
+<section class="container">
+    
+    <h1 class="typed" style="animation-delay: 0s;">
+        ENERGÍA HECHO-HECHO ENERGÍA
+    </h1>
+    <h1 class="typed" style="animation-delay: 3.5s;">
+        Todo acontecimiento en el plano de 
+    </h1>
+    <h1 class="typed" style="animation-delay: 7s;">
+        nuestra realidad queda automáticamente 
+    </h1>
+
+    <h1 class="typed" style="animation-delay: 12s; color: var(--accent-color);">
+        respaldado por la energía lunar.
+    </h1>
+    <h1 class="typed" style="animation-delay: 15.5s;">  
+        que le corresponde y viceversa.
+    </h1>
+    <h1 class="typed" style="animation-delay: 19s;">  
+        Nada en la Tierra sucede
+    </h1>
+    <h1 class="typed" style="animation-delay: 22.5s;color: var(--accent-color);">
+        sin el permiso de la Luna.
+    </h1>
+</section>
+```
+
+Notice the `animation-delay` values for the 1st, 2nd, and 3rd lines are 0s, 3.5s and 7s, respectively, reflecting the delay for the pauses. The other delay values are adjusted accordingly.
+
+[ME]: 
+#+end_ai

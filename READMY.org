@@ -1,0 +1,70 @@
+* Emmanuel Website
+  "LA LUNA ARTIFICIAL: MANUAL PARA TU CONSCIENCIA " 
+
+** Menu
+
+** | () BIO ()  | INTERVIEWS | ASTROLOGÍA LUNAR QUE ES  | CONSULTAS | *^ LIBRO |
+
+ver tree-structure.org completa
+
+* Pago del Libro :
+
+y luego la otra pieza angular del proyecto. es el sistema automatico de pago con codigos.
+y datos vinculados a la persona del codigo
+y listo.
+
+* Cosas que  incorporar al sitio Web  :
+
+**  IDEAS ---------- Forwarded message ---------
+De: Emmanuel <yarabues@gmail.com>
+Date: s??b, 13 may 2023 a las 5:31
+Subject: IDEAS
+To: <fenix@librebits.info>
+
+
+tuve una idea. aparte de meter en portada la portada del lbro y el titul
+
+hacer unas franjas.. creo que tu me comentaste algo asi
+
+con frases potentes... 5 o 6 7
+
+puede ser a modo pantalla.. que vayan y vengan
+
+o simplemente que vaya apareciendo mandando el cursor hacia abajo
+
+letras grandes cuerpo 20-25 o asi. puede ser una FRASE
+Y un peque??o texto o solo la frase a modo titualar
+
+fondo oscuro. GRIS O NEGRO. TIPO FACEBOOK
+LETRA MAS CLARA.
+
+
+
+
+** ¿ Textos de cada página Web ?
+** (foto bio) para el apartado BIO
+** (logo - dragon) para el apartdo BIO
+** [ Ilustración de Georgina ] 
+
+** url  VIDEOS ? 
+** url AUDIOS ?
+
+* TADA TralAr4
+** EN_PROCESO typewriter effect para la portadAI - "6 o 7 frases potentes" ?
+***   a-la logrocket blogpost ?
+*** or a-la MrHugo
+** TADA -- Tarjeta Enso del Header
+** TADA Letra
+*** TADA azul -> azul metálico -
+*** TADA más gruesa
+*** TADA Responsiva
+** TADA ++ Breadcrumbs a-la hugocodex
+  https://hugocodex.org/add-ons/breadcrumbs/
+
+#+DOWNLOADED: screenshot @ 2023-05-19 12:25:05
+[[file:TralAr4/2023-05-19_12-25-05_screenshot.png]]
+
+  
+** TADA P4ym€nt$ - cobertura LATAM ?
+*** Paypal
+***  VISA - MasterCard ? - Bizum ? Stripe ? 

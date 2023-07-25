@@ -1,5 +1,5 @@
 logo_image:
-logo_subtitle: The Ultimate Hugo theme
+logo_subtitle: La Luna Artificial
 mobile_view_at: 1000
 sticky_header: true
 menuitems:
@@ -65,10 +65,10 @@ menuitems:
   - title: Blog
     link: /blog/
 cta:
-  active: true
+  active: false
   title: Get started
   link: /get-started/
 preheader: 
-  active: true
+  active: false
   is_light: true
   text: Open Mon-Fri from 9.00-5.00

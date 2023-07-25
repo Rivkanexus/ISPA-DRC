@@ -1,0 +1,3 @@
+* TADA Navigation menu - complete ?
+** Home page link - clickable logo ?
+** contact ?

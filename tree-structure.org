@@ -1,0 +1,29 @@
+* PROBANDO bio 
+** PROBANDO viajes
+** EN_PROCESO formacion
+** EN_PROCESO astrologo
+
+* ESPERA interviews
+** TADA videos
+** TADA audios
+
+* EN_PROCESO astrología lunar - que es
+** PROBANDO la luna en tu vida
+** TADA como mejorar tus relaciones
+** TADA como mejorar tu vida profesional
+
+* EN_PROCESO consultas
+** PROBANDO fechas beneficas
+** PROBANDO viajes
+** PROBANDO cambio de residencia
+** PROBANDO dejar de fumar
+** PROBANDO master en astrología lunar
+** EN_PROCESO \!/ consulta personal UTF-8 ?
+
+* ESPERA libro 
+** TADA introducción
+** TADA capitulo de muestra
+** TADA indice
+*** cap.1 - lorem ipsum
+
+

@@ -3,6 +3,11 @@ title: Cambio de residencia
 image: /uploads/images/image
 weight: 4
 ---
+
+{{< brick_intro >}}
+
+## Cambio de residencia
+
 Otro situación que todos vivimos alguna vez en nuestra vida es la entrada o salida de una vivienda. O la entrada o salida de un país, ciudad, pueblo o región. En este caso, **¿qué nos puede aportar la astrología lunar?**
 
 Sencillo. La fecha óptima para acometer la dimensión de esta tarea, teniendo en cuenta, poniendo el liza y valorando las estructuras de las fechas implicadas: la fecha de nacimiento de las personas que producen ese cambio vital y la fecha de construcción de la vivienda o viviendas envueltas y asociadas a nuestra toma de
@@ -21,3 +26,6 @@ de nuestro entorno podremos adaptarnos y hacernos la vida más fácil a nosotros
 - *Duración* : 1 hora y treinta minutos-2 horas
 
 - *Precio* : 80 euros
+
+
+{{< /brick_intro >}}

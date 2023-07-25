@@ -4,6 +4,11 @@ image: /uploads/images/image
 weight: 3
 ---
 
+
+{{< brick_intro >}}
+
+## Astrólogo
+
 Mi primer topetazo fuerte con la astrología fue en **Londres** . En el **año dos mil dos**, yo contaba con veinticinco años, me invitaron a un cumpleaños, algo típico por aquellos
 años: las invitaciones de cumpleaños. Llegué tarde y aunque la fiesta se había disuelto todavía quedaban varios amigos en el bar de la convocatoria celebrando la liturgia de la
 post party. Lorena, una amiga que trabajaba para Zara en Londres me presentó a Miguel, el que se convertiría en mi mejor amigo durante los siguientes meses. Alto y moreno. La
@@ -84,3 +89,6 @@ doce tipos de energía sobre todo lo que sucede en la Tierra**. Diez años hasta
 endógenas y también exógenas: trabajando para empresas en Asia encontrándoles las mejores y mas benéficas fechas posibles para todo tipo de menesteres. Y ya una vez asentado en
 España trabajando sobre todo con personas particulares y ayudándoles en la puesta en marcha de sus proyectos y direcciones vitales o simplemente dejándoles en la rampa de salida para que gracias al uso de su combinación lunar
 puedan acceder a sus objetivos de manera más cómoda, consciente y solvente.
+
+
+{{< /brick_intro >}}
