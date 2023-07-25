@@ -1,3 +1,6 @@
+* TADA Bugs
+** TADA Libro.md - indice ?
+
 * TADA Navigation menu - complete ?
 ** Home page link - clickable logo ?
 ** contact ?

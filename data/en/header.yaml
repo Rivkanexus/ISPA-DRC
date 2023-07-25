@@ -3,11 +3,6 @@ logo_subtitle: La Luna Artificial
 mobile_view_at: 1000
 sticky_header: true
 menuitems:
-  - title: About
-    link: /about/
-    items: 
-      - title:
-        link:
   - title: Bio
     items: 
       - title: Astrólogo
@@ -44,7 +39,11 @@ menuitems:
       - title: F.A.Q.
         link: /faq/
       - title: 404 Page
-        
+  - title: Videos
+    link: /videos/
+    items: 
+      - title:
+        link:        
   - title: Blog
     link: /blog/
 cta:

@@ -1,9 +1,9 @@
 ---
-title: About
+title: Videos
 ---
 {{< brick_about >}}
 
-{{< colorize_image "This is not me" "/uploads/photos/avatars/2.jpeg" >}}
+{{< colorize_image "This is not me" "/uploads/img/logo.png" >}}
 
 # Hola, soy Emmanuel JJ. Yela
 
@@ -13,11 +13,11 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt
 
 Actualmente asentado en España trabajando sobre todo con personas particulares y ayudándoles en la puesta en marcha de sus proyectos y direcciones vitales o simplemente dejándoles en la rampa de salida para que gracias al uso de su combinación lunar puedan acceder a sus objetivos de manera más cómoda, consciente y solvente.
 
-
+Este es, "Lo Que el Ojo no Ve",  mi canal en YouTube
 
 {{< socialbuttons >}}
 
-![](/uploads/photos/jupiter.jpg)
+![](/uploads/img/avatar.jpg)
 
 
 {{< /brick_about >}}
