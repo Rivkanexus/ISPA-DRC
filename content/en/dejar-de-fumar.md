@@ -3,7 +3,7 @@ title: Dejar de fumar
 image: /uploads/images/image
 weight: 2
 ---
-{{< brick_intro >}}
+{{< brick_wide >}}
 
 ## Dejar de fumar
 
@@ -16,8 +16,8 @@ La fecha es como el turbo del coche. Si ponemos el motor a punto. Si los frenos,
 
 - *Precio* : 70 euros
 
-{{< /brick_intro >}}
+TaDa : enlazar video - ?
 
-> - enlazar video - ?
+{{< /brick_wide >}}
 
 {{< brick_cta >}}{{< /brick_cta >}}

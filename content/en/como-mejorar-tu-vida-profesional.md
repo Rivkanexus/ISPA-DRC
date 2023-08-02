@@ -4,7 +4,7 @@ image: /uploads/images/image
 weight: 3
 ---
 
-{{< brick_intro >}}
+{{< brick_wide >}}
 
 ## Como mejorar tu vida profesional
 
@@ -17,9 +17,10 @@ entender en profundidad lo que esta sucediendo en tu entorno de trabajo y desde 
 
 También es útil e interesante conocer, descifrar y dominar las fechas del entorno laboral en el que te mueves. Saber si la empresa para la que trabajas es un entorno compatible contigo o la conexión está regida por otras variables te permitirá tomar decisiones de forma diligente y concreta, atendiendo y tomando en cuenta no solo las variables  que se ven con los ojos, sino también las gobernadas por el lado sutil y lunar de tu vida.
 
-{{< /brick_intro >}}
 
-{{< brick_cta >}}{{< /brick_cta >}}
+{{< /brick_wide >}}
+
+
 
 {{< brick_cta >}}{{< /brick_cta >}}
 

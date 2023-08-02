@@ -4,7 +4,7 @@ image: /uploads/images/image
 weight: 4
 ---
 
-{{< brick_intro >}}
+{{< brick_wide >}}
 
 ## Cambio de residencia
 
@@ -28,6 +28,6 @@ de nuestro entorno podremos adaptarnos y hacernos la vida más fácil a nosotros
 - *Precio* : 80 euros
 
 
-{{< /brick_intro >}}
+{{< /brick_wide >}}
 
 {{< brick_cta >}}{{< /brick_cta >}}

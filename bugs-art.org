@@ -1,4 +1,5 @@
 * TADA Bugs
+** TADA wide - brick 
 ** TADA Libro.md - indice ?
 
 * TADA Navigation menu - complete ?

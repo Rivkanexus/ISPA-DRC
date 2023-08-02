@@ -4,7 +4,7 @@ image: /uploads/images/image
 weight: 1
 ---
 
-{{< brick_intro >}}
+{{< brick_wide >}}
 
 ## La Luna en tu vida
 
@@ -49,8 +49,11 @@ En su diagnosis encontraron **cuatro niveles perpetuos de influencia: año, mes,
 
 **Conociendo lo que te hace como eres** puedes moldear tu vida de manera más rápida económica y eficiente. O llevándolo al extremo puedes incluso seguir vivo donde otros u otras sin ese conocimiento ya estarían muertos. Y aquí cierro el epígrafe dando un ejemplo harto incontestable, **la energía de La Cabra** es la energía más emocional, no hay nada más veloz en este mundo-dimensión que una emoción. Por eso las personas con esta energía en alguna de sus cuatro posiciones pueden volverse extraordinariamente creativas o extraordinariamente viscerales en contra incluso de ellas mismas y su propia integridad física: caso de Avicci, Philyphe Seymour Hoffmann o más recientemente de Veronica Forqué, que por desconocer las implicaciones de esa energía en su combinación y su vida ya no están aquí para contarlo.
 
-En el extremo, un correcto y profundo uso de las implicaciones de las energias lunares de tu combinación puede “salvarte” la vida, o en su defecto y sin llevarlo a esos límites, mejorarla y hacerte mas vibrante y consciente de lo **QUE, AUN HACIÉNDOTE COMO ERES, NO ERES** TU, SINO UNA PROGRAMACIÓN AJENA A TI Y QUE SOLO PENDE DEL HILO DE TU NACIMIENTO Y DE LAS ENERGÍAS QUE EMANA EN ESE MOMENTO UNA BOLA LLAMADA LUNA.
+En el extremo, un correcto y profundo uso de las implicaciones de las energias lunares de tu combinación puede “salvarte” la vida, o en su defecto y sin llevarlo a esos límites,
+ mejorarla y hacerte mas vibrante y
+ 
+ > consciente de lo **QUE, AUN HACIÉNDOTE COMO ERES, NO ERES** TU, SINO UNA PROGRAMACIÓN AJENA A TI Y QUE SOLO PENDE DEL HILO DE TU NACIMIENTO Y DE LAS ENERGÍAS QUE EMANA EN ESE MOMENTO UNA BOLA LLAMADA LUNA.
 
-{{< /brick_intro >}}
+{{< /brick_wide >}}
 
 {{< brick_cta >}}{{< /brick_cta >}}

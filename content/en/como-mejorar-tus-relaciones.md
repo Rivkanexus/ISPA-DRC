@@ -2,7 +2,7 @@
 title: Como mejorar tus relaciones
 image:
 ---
-{{< brick_intro >}}
+{{< brick_wide >}}
 
 ## Como mejorar tus relaciones
 
@@ -21,6 +21,6 @@ Todas las decisiones cotidianas o excepcionales quedan sustentadas y apoyadas po
 Atendiendo a las opciones y potencialidades de las combinaciones de las personas  que amamos o que simplemente nos rodean podremos hacer nuestra vida más fácil, más dinámica y sobre todo más consciente.
 
 
-{{< /brick_intro >}}
+{{< /brick_wide >}}
 
 {{< brick_cta >}}{{< /brick_cta >}}
