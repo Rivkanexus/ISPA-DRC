@@ -1,7 +1,8 @@
 * TADA Bugs
-** TADA wide - brick 
-** TADA Libro.md - indice ?
+** TADA Tarjeta presentación @ footer  <--Contact data ? @ preheader 
+** EN_PROCESO wide - brick 
+** EN_PROCESO Libro.md - indice ?
 
-* TADA Navigation menu - complete ?
+* EN_PROCESO Navigation menu - complete ?
 ** Home page link - clickable logo ?
 ** contact ?
