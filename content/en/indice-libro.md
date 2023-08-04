@@ -19,13 +19,12 @@ image:
 
 {{</brick_intro >}}
 
-
-{{< brick_cta >}}{{< /brick_cta >}}
-
+{{< brick_cta2 >}}{{< /brick_cta2 >}}
 
 {{< brick_intro >}}
 
 ### Índice :
+
 
 #### Prólogo
     --- pág. 3
@@ -189,6 +188,4 @@ image:
 
 {{< /brick_intro >}}
 
-{{< brick_cta >}}{{< /brick_cta >}}
-
-
+{{< brick_cta2 >}}{{< /brick_cta2 >}}
