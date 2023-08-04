@@ -2,7 +2,9 @@
 ** TADA Tarjeta presentación @ footer  <--Contact data ? @ preheader 
 ** EN_PROCESO wide - brick 
 ** EN_PROCESO Libro.md - indice ?
+** Youtube social - icon
 
-* EN_PROCESO Navigation menu - complete ?
+* EN_PROCESO Navigation Header menu - complete ?
 ** Home page link - clickable logo ?
 ** contact ?
+** footer menu 

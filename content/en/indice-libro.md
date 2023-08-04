@@ -17,6 +17,14 @@ image:
 
 ![LaLuna](/uploads/img/astrologia-lunar/moon-apollo12.jpg "LaLuna")
 
+{{</brick_intro >}}
+
+
+{{< brick_cta >}}{{< /brick_cta >}}
+
+
+{{< brick_intro >}}
+
 ### Índice :
 
 #### Prólogo

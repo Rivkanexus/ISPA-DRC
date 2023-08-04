@@ -92,7 +92,26 @@
         <div class="container">
 		<div>{{ markdownify (index .Site.Data .Language.Lang).footer.footer_text }}</div>
 		</div>
+      </div>
+
+
+
+    
+	<div class="footer">
+		<div class="container">
+			<ul>
+				<img src="/uploads/img/logo-emmanuel.png" alt="{{ .Site.Title }}" onclick="document.location = '/';"
+					style="cursor: pointer;" style="padding-bottom: 30px;" />
+			
+			</br>			
+				<li> <h2>[V] yarabues@gmail.com   |</h2> </li>
+				<li> <h2>tél: 00 34 615 74 13 88</h2></li>
+			</ul>
 		</div>
+	</div>
+
+
+      
 		</footer>
 		{{ if (index .Site.Data .Language.Lang).header.sticky_header }}
       <script type="text/javascript" src="/js/stickyheader.js"></script>
