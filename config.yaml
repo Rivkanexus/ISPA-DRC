@@ -1,5 +1,5 @@
 baseURL: "https://www.hugobricks.preview.usecue.com"
-title: ISPA DRC.cd
+title: 
 theme: ["hugo-notice", "hugobricks"]
 defaultContentLanguage: fr
 assetDir: static
