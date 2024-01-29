@@ -1,6 +1,6 @@
-baseURL: "https://github.com/Rivkanexus/ISPADRC/"
+baseURL: "https://www.hugobricks.preview.usecue.com"
 title: ISPA DRC.cd
-theme: hugobricks
+theme: ["hugo-notice", "hugobricks"]
 defaultContentLanguage: fr
 assetDir: static
 
