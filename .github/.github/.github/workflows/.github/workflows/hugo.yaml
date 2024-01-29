@@ -4,8 +4,12 @@ name: Deploy Hugo site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
+<<<<<<< Updated upstream:.github/.github/.github/workflows/.github/workflows/hugo.yaml
     branches:
       - main_2
+=======
+    branches: ["main_2"]
+>>>>>>> Stashed changes:.github/workflows/hugo.yaml
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
