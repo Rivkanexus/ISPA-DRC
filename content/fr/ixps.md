@@ -51,7 +51,7 @@ KINIX offre les services suivants :
 - Peering remote ;
 - Unicast
 
-![](/uploads/branches_logos/KINIX.png)
+![](/uploads/brancheslogos/KINIX.png)
 
 ---
 ## LUBIX
@@ -64,7 +64,7 @@ LUBIX  offre les services suivants :
 - Unicast
  
 
-![](/uploads/branches_logos/LUBIX.png)
+![](/uploads/brancheslogos/LUBIX.png)
 
 ---
 ## GOMIX
@@ -76,7 +76,7 @@ GOMIX  offre les services suivants :
 - Peering remote ;
 - Unicast
 
-![](/uploads/branches_logos/GOMIX.png)
+![](/uploads/brancheslogos/GOMIX.png)
 
 {{< /tabs >}}
 {{< /brick_wide >}}
