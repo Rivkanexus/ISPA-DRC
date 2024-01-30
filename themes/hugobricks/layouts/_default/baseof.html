@@ -10,7 +10,7 @@
     <link rel="canonical" href="{{ .Permalink }}">
     <link rel="shortcut icon" href="{{ .Site.Data.settings.favicon_image }}">
     
-    <link href="/css/style.css?version={{ now }}" rel="stylesheet">
+    <link href="css/style.css?version={{ now }}" rel="stylesheet">
   </head>
   <body id="top" class="{{ if in (substr .Content  0 100) `transparent_header` }}transparent_header{{ end }} filename_{{ with .File }}{{ .BaseFileName }}{{ end }}">
     <script>      
@@ -121,14 +121,14 @@
     {{ end }}
     <script type="text/javascript" src="/js/faq.js"></script>
     <script type="text/javascript" src="/js/lightbox.js"></script>
-		<link rel="stylesheet" href="/css/lightbox.css">
+		<link rel="stylesheet" href="css/lightbox.css">
     {{ if .Site.Data.settings.customcursor }}
       <script type="text/javascript" src="/js/customcursor.js"></script>
-      <link rel="stylesheet" href="/css/customcursor.css">
+      <link rel="stylesheet" href="css/customcursor.css">
     {{ end }}
     {{ if .Site.Data.settings.intersectionobserver }}
       <script type="text/javascript" src="/js/intersectionobserver.js"></script>
-      <link rel="stylesheet" href="/css/intersectionobserver.css">
+      <link rel="stylesheet" href="css/intersectionobserver.css">
     {{ end }}
       </div>
   </body>
