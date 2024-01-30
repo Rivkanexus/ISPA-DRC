@@ -1,6 +1,6 @@
 baseURL: "https://www.hugobricks.preview.usecue.com/"
 title: 
-theme: hugobricks
+theme: ["hugo-notice", "hugobricks"]
 defaultContentLanguage: fr
 assetDir: static
 
