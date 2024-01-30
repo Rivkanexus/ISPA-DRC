@@ -28,7 +28,7 @@ menuitems:
     items:
       - title: Documents
         slug: en
-        link: ISPA-DRC/en/documents/
+        link: /en/documents/
       - title: Newsletter
         slug: en
         link: /en/newsletter/
