@@ -2,7 +2,7 @@
 title: map
 ---
 
-![](/uploads/map2.jpg)
+![](./uploads/map2.JPG)
 
 [Google Maps][def]
 

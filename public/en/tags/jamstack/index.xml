@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jamstack on </title>
+    <link>https://Rivkanexus.github.io/ISPA-DRC/en/tags/jamstack/</link>
+    <description>Recent content in jamstack on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Rivkanexus.github.io/ISPA-DRC/en/tags/jamstack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This theme has a perfect Google Lighthouse&amp;nbsp;score</title>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/en/posts/perfect-google-lighthouse-score/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/en/posts/perfect-google-lighthouse-score/</guid>
+      <description>This theme has a (near) perfect Google Lighthouse score. Some people like fast cars. I like fast websites. But how to get to a perfect Google Lighthouse score? Let me explain.&#xA;You might feel that it is nearly impossible to get to a perfect 100% score. You minified your Javascript, properly scaled your images and even combined some requests, but that did not help nearly enough. The problem is: you might be looking at it from the wrong angle.</description>
+    </item>
+    <item>
+      <title>Jamstack has matured</title>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/en/posts/jamstack-has-matured/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/en/posts/jamstack-has-matured/</guid>
+      <description>In the beginning Jamstack was fun. The main SSG was Jekyll, which was simple and open-source. It was not only free to use, but also free to host (on Github). Jamstack websites were blazing fast and scored high in Google Lighthouse. There were plenty of free CMS options to choose from. The Jamstack looked very promising! But times have changed&amp;hellip;&#xA;Jekyll is dead Sure&amp;hellip; you can still use Jekyll. But Jekyll lost its most important developer and Github decided to freeze their Jekyll version.</description>
+    </item>
+    <item>
+      <title>The Stackless Way</title>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/en/posts/the-stackless-way/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/en/posts/the-stackless-way/</guid>
+      <description>The Stackless Way wants to give beginners a gradual path from simple HTML into more power without encountering frameworks or build tools as a barrier. It shares my conviction that &amp;rsquo;there are no shortcuts&amp;rsquo; and &amp;lsquo;you need to master your sword&amp;rsquo;.&#xA;Good old HTML The Stackless Way uses standard HTML elements. Daniel Kehoe, who inspired me to write something about Stackless, proposes to use custom HTML elements that are enriched with javascript, but I am a purist: loading unknown code from a package manager is not plain and Stackless enough for me.</description>
+    </item>
+  </channel>
+</rss>
