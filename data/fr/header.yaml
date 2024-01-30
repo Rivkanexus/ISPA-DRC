@@ -6,29 +6,29 @@ menuitems:
     link: 
     items: 
       - title: Notre histoire
-        link: /history/
+        link: ISPA-DRC/history/
       - title: Notre équipe
-        link: /team/
+        link: ISPA-DRC/team/
   - title: Communauté
     link: 
     items: 
       - title: IXPs
-        link: /ixps/
+        link: ISPA-DRC/ixps/
       - title: Membres
-        link: /members/
+        link: ISPA-DRC/members/
       - title: Partenariats
-        link: /partnerships/
+        link: ISPA-DRC/partnerships/
   - title: Ressources
     link: 
     items:
       - title: Documents
-        link: /documents/
+        link: ISPA-DRC/documents/
       - title: Bulletin
-        link: /newsletter/
+        link: ISPA-DRC/newsletter/
       - title: F.A.Q.
-        link: /faq/
+        link: ISPA-DRC/faq/
   - title: Contact
-    link: /contact/
+    link: ISPA-DRC/contact/
 cta:
   active: true
   title: Connexion
