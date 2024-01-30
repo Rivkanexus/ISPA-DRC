@@ -7,22 +7,22 @@ menuitems:
     items: 
       - title: Our History
         slug: en
-        link: ISPA-DRC/en/history/
+        link: /en/history/
       - title: Our Team
         slug: en
-        link: ISPA-DRC/en/team/
+        link: /en/team/
   - title: Community
     link: 
     items: 
       - title: IXPs
         slug: en
-        link: ISPA-DRC/en/ixps/
+        link: /en/ixps/
       - title: Members
         slug: en
-        link: ISPA-DRC/en/members/
+        link: /en/members/
       - title: Partnerships
         slug: en
-        link: ISPA-DRC/en/partnerships/
+        link: /en/partnerships/
   - title: Resources
     link: 
     items:
@@ -31,13 +31,13 @@ menuitems:
         link: ISPA-DRC/en/documents/
       - title: Newsletter
         slug: en
-        link: ISPA-DRC/en/newsletter/
+        link: /en/newsletter/
       - title: F.A.Q.
         slug: en
-        link: ISPA-DRC/en/faq/
+        link: /en/faq/
   - title: Contact
     slug: en
-    link: ISPA-DRC/en/contact/
+    link: /en/contact/
 cta:
   active: true
   title: Login
