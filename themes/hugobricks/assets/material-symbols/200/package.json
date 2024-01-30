@@ -26,6 +26,6 @@
     "svg"
   ],
   "publishConfig": {
-    "access": "docs"
+    "access": "public"
   }
 }
