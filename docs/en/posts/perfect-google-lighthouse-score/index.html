@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>This theme has a perfect Google Lighthouse&amp;nbsp;score | ISPA-DRC </title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This theme has a (near) perfect Google Lighthouse score. Some people like fast cars. I like fast websites. But how to get to a perfect Google Lighthouse score? Let me explain.
+You might feel that it is nearly impossible to get to a perfect 100% score. You minified your Javascript, properly scaled your images and even combined some requests, but that did not help nearly enough. The problem is: you might be looking at it from the wrong angle.">
+
+    <link rel="canonical" href="https://github.com/Rivkanexus/ISPA-DRC//en/posts/perfect-google-lighthouse-score/">
+    <link rel="shortcut icon" href="/img/ispadrc_favicon.png">
+    
+    <link href="/css/style.css?version=2024-01-30%2022%3a44%3a01.357755%20%2b0000%20GMT%20m%3d%2b0.376662417" rel="stylesheet">
+  </head>
+  <body id="top" class=" filename_perfect-google-lighthouse-score">
+    <script>      
+      function updateSize() {
+        if(window.innerWidth< 1000 ) document.body.classList.add('mobilemenu');
+        else document.body.classList.remove('mobilemenu');
+      }
+      updateSize();
+      window.addEventListener("resize", updateSize);
+    </script>
+    <div class="innerbody"><header>
+      <div class="container has_cta">
+        <div>
+          <a href="/en/#top" class="logo">
+    
+        <img src="/img/ispadrclogo2.png" alt="ISPA-DRC logo" />
+    
+</a>
+        </div>
+        <div class="nav">
+          <nav>
+            <ul>
+              
+                <li class=" haschildren"><a href="">About</a>
+                  
+                  <ul>
+                    
+                      <li><a href="/en/history/">Our History</a></li>
+                    
+                      <li><a href="/en/team/">Our Team</a></li>
+                    
+                  </ul>
+                  
+                </li>
+              
+                <li class=" haschildren"><a href="">Community</a>
+                  
+                  <ul>
+                    
+                      <li><a href="/en/ixps/">IXPs</a></li>
+                    
+                      <li><a href="/en/members/">Members</a></li>
+                    
+                      <li><a href="/en/partnerships/">Partnerships</a></li>
+                    
+                  </ul>
+                  
+                </li>
+              
+                <li class=" haschildren"><a href="">Resources</a>
+                  
+                  <ul>
+                    
+                      <li><a href="/en/documents/">Documents</a></li>
+                    
+                      <li><a href="/en/newsletter/">Newsletter</a></li>
+                    
+                      <li><a href="/en/faq/">F.A.Q.</a></li>
+                    
+                  </ul>
+                  
+                </li>
+              
+                <li class=""><a href="/en/contact/">Contact</a>
+                  
+                </li>
+              
+            </ul>
+          </nav>
+        </div>
+        
+        
+        <div class="languages">
+          <ul>
+            
+            <li><a href="/Rivkanexus/ISPA-DRC/">
+              
+                
+                  French
+                
+              
+            </a></li>
+            
+            <li><a href="/Rivkanexus/ISPA-DRC/en/">
+              
+                
+                  English
+                
+              
+            </a></li>
+            
+        </ul> 
+          <a href="https://portal.ispa-drc.cd/login/" class="button ghost smaller">Login</a>
+        </div>
+        
+        <button id="togglemenu" onclick="document.body.classList.toggle('menushown');">Toggle menu</button>
+    </header><section class="post">
+    <div class="container title">
+        <ul class="breadcrumbs"><li><a href="/Rivkanexus/ISPA-DRC/en/">Home</a></li><li><a href="/Rivkanexus/ISPA-DRC/blog/">Blog</a></li></ul>
+        <h1>This theme has a perfect Google Lighthouse&nbsp;score</h1>
+        <div class="meta">
+            
+            
+            <div>
+                <img src="/img/icons/material-symbols/200/rounded/label-fill.svg"class="black_2_textDark" alt="" />
+                <ul>
+                    
+                    <li><a href="/blog/?tag=performance">performance</a>
+                    
+                    <li><a href="/blog/?tag=jamstack">jamstack</a>
+                    
+                </ul>
+            </div>
+            
+        </div>
+    </div>
+    <div class="container wide"><img src="/Rivkanexus/ISPA-DRC/uploads/gallery/02_hu3d03a01dcc18bc5be0e67db3d8d209a6_3335768_1600x800_fill_q50_box_smart1.jpg" alt="" class="featuredimage" />
+    </div>
+    <div class="container post">
+        <p>This theme has a (near) <a href="https://pagespeed.web.dev/analysis/https-www-hugobricks-preview-usecue-com/je4uqrt6nj?form_factor=mobile" target="_blank" rel="noopener">perfect Google Lighthouse score</a>. Some people like fast cars. I like fast websites. But how to get to a perfect Google Lighthouse score? Let me explain.</p>
+<p>You might feel that it is nearly impossible to get to a perfect 100% score. You minified your Javascript, properly scaled your images and even combined some requests, but that did not help nearly enough. The problem is: you might be looking at it from the wrong angle. I build 100% scoring websites on a daily basis, so obviously it is very well possible to get a perfect score on all your websites with little effort. I will try to explain what we want to achieve and how we can achieve that.</p>
+<h2 id="common-pitfalls">Common pitfalls</h2>
+<p>There are some basic facts that a lot of people get wrong when it comes to speed and performance. Minifying does not beat gzipping, image scaling does not beat JPG compression and combining requests is actually counter-effective over HTTP/2. These are probably the reasons why your earlier efforts had so little effect. Another important thing to know is that Google Lighthouse simulates a slow connection. This emphasizes the importance of a low ‘page weight’ or ’total size’ over fast infrastructure, as a small page is delivered significantly faster over such a narrow connection than a large page.</p>
+<h2 id="the-trick">The trick</h2>
+<p>First of all you need a low Time To First Byte. All websites in the list above have a TTFB of less than 200ms. This means that the server needs to respond fast. I use CloudFlare for most of my websites, but using a well configured VM works too (as you can see). I am not sure what hosting Delete Agency uses, but they got a nice low TTFB. Getting a low TTFB is mainly a matter of choosing the right hosting. You can test this metric with a tool like Pingdom or GTMetrix. Note that proper (server-side) caching helps a lot too. I use a Static Site Generator to generate my pages, which is essentially the same as using full server-side caching.</p>
+<p>Secondly, you need to optimize your images. Use SVG whenever possible and heavily compressed JPG for the rest. If you have to use PNG, make sure you use TinyPNG to compress them and use loading=“lazy” on all image tags. Note that using WebP is not required at all to get a good score. The total page size to aim for is under a 1000kb.</p>
+<p>Finally, you need to address all the small issues Google Lighthouse throws at you. These could be accessibility things, but also SEO or performance issues. Note that Performance issues correlate to the speed at which the site loads, not to the checklist, so fixing these issues is optional. A Performance score of 100 represents the 98th percentile.</p>
+<h2 id="the-blocking-code-issue">The blocking code issue</h2>
+<p>When you have done all the above, you are probably left with some hard to solve ‘blocking code’ issues. Google will suggest to move the Javascript and CSS to the footer, but that does not really solve it. You will get an ugly Flash Of Unstyled Text (FOUT) and your website will only be usable after your code has fully loaded. Here is where I initially got stuck.</p>
+<p>The solution is simple. The most effective strategy for getting a perfect Google Lighthouse score is to stop using Javascript and CSS frameworks. That might seem scary at first, but Javascript and CSS have come a long way. Things like Flexbox, CSS columns and CSS grid handle most of your more complex CSS problems with ease. Cross-browser issues are close to non-existent in the <a href="https://www.netmarketshare.com/browser-market-share.aspx" target="_blank" rel="noopener">current browser landscape</a>. Stick to writing lean CSS and lean Javascript. It might feel like you are going back to the nineties or the zero&rsquo;s, but that is okay. Listen to Michael Jackson and sing along. A world <a href="/blog/code-warriors/">without dependencies</a> is a happy place. Heal the world!</p>
+<p>A final piece of advice: if you feel insecure about programming <a href="https://gomakethings.com/" target="_blank" rel="noopener">Vanilla Javascript</a>, please let <a href="https://gomakethings.com/" target="_blank" rel="noopener">Chris Ferdinandy</a> help you. He is an advocate for a simpler World Wide Web and loves to teach. Go make simpler things!</p>
+<p><em>Note that Hugobricks is based on the MIT licensed <a href="https://hugoplate.netlify.app" target="_blank" rel="noopener">Hugoplate</a> from Zeon studio. Hugoplate scores 20 points lower on Performance in Google Lighthouse due to the &lsquo;blocking code issue&rsquo;, because it uses (CSS) frameworks.</em></p>
+
+    </div>
+</section>
+    <section class="cta hasbackgroundcolor">
+    <div class="container">
+        <div class="twocols box">
+            <div class="text">
+                <div><h2 id="get-started-with-hugobricks-today">Get started with Hugobricks today!</h2>
+<p>Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.</p>
+<p><a href="/get-started/" class="button secondary">Get started now</a></p>
+
+</div>
+            </div>
+            <div class="image">
+                <div><p><img src="/uploads/illustrations/cuate/server.svg" alt="" class="is_svg" /></p></div>
+            </div>
+        </div>
+    </div>
+</section><footer class="">
+      <div>
+        <div class="container">
+          <div>
+            <a href="/en/#top" class="logo">
+    
+        <div class="">
+            
+            <div>
+                <span>ISPA-DRC</span>
+                
+            </div>
+        </div>
+    
+</a>
+          </div>
+          <div>
+            <ul>
+              
+                <li><a href="/en/history/">About</a></li>
+              
+                <li><a href="/en/members/">Community</a></li>
+              
+                <li><a href="/en/privacy-policy/">Privacy policy</a></li>
+              
+            </ul>  
+          </div>
+          <div>
+            <ul class="buttons social"><li><a href="https://facebook.com" class="button icon"><img src="/img/facebook.svg" alt="Facebook" /></a></li><li><a href="https://twitter.com" class="button icon"><img src="/img/twitter.svg" alt="Twitter" /></a></li></ul>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="container">
+		      <div>© ISPA-DRC 2023</div>
+		    </div>
+  		</div>
+		</footer>
+
+		
+    <script type="text/javascript" src="/js/faq.js"></script>
+    <script type="text/javascript" src="/js/lightbox.js"></script>
+		<link rel="stylesheet" href="/css/lightbox.css">
+    
+      <script type="text/javascript" src="/js/customcursor.js"></script>
+      <link rel="stylesheet" href="/css/customcursor.css">
+    
+    
+      <script type="text/javascript" src="/js/intersectionobserver.js"></script>
+      <link rel="stylesheet" href="/css/intersectionobserver.css">
+    
+      </div>
+  </body>
+</html>
+
+
