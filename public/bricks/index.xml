@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bricks on </title>
+    <link>https://www.hugobricks.preview.usecue.com/bricks/</link>
+    <description>Recent content in Bricks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <atom:link href="https://www.hugobricks.preview.usecue.com/bricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cta</title>
+      <link>https://www.hugobricks.preview.usecue.com/bricks/cta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/bricks/cta/</guid>
+      <description>Get started with Hugobricks today! Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.&#xA;Get started now</description>
+    </item>
+    <item>
+      <title>features</title>
+      <link>https://www.hugobricks.preview.usecue.com/bricks/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/bricks/features/</guid>
+      <description>The Ultimate Hugo theme Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.&#xA;Covers all components We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.&#xA;99+ Google Lighthouse score Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit.</description>
+    </item>
+    <item>
+      <title>intro</title>
+      <link>https://www.hugobricks.preview.usecue.com/bricks/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/bricks/intro/</guid>
+      <description>The Ultimate Theme You Need To Start Your Hugo Website Hugobricks is a free website theme built with Hugo and vanilla CSS, providing everything you need to jumpstart your Hugo website and save valuable time.&#xA;Get started for free</description>
+    </item>
+    <item>
+      <title>map</title>
+      <link>https://www.hugobricks.preview.usecue.com/bricks/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/bricks/map/</guid>
+      <description>Google Maps&#xA;Contact us Building Gécamines-Blvd, June 30 Kinshasa Gombe&#xA;Democratic Repblic of Congo</description>
+    </item>
+    <item>
+      <title>Reviews</title>
+      <link>https://www.hugobricks.preview.usecue.com/bricks/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/bricks/reviews/</guid>
+      <description>What users say about Hugobricks Don&amp;rsquo;t just take our word for it - hear from some of our satisfied users! Check out some of our testimonials below to see what others are saying about Hugobricks.</description>
+    </item>
+  </channel>
+</rss>
