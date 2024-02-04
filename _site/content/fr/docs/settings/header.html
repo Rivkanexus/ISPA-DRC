@@ -1,0 +1,38 @@
+<h3 id="logo-image">Logo image</h3>
+
+<p>This sets the image in the header. Omitting a value here results in a ‘text logo’ as you can see on this website. The text logo consists of the value in <code class="language-plaintext highlighter-rouge">title</code> field that can be found in the ‘general.yaml’ file in the data folder and the <code class="language-plaintext highlighter-rouge">logo_subtitle</code> field that you can find in this data file.</p>
+
+<h3 id="logo-subtitle">Logo subtitle</h3>
+
+<p>When you choose to omit the value for <code class="language-plaintext highlighter-rouge">logo_image</code> the ‘text logo’ will appear. The text logo consists of the value in <code class="language-plaintext highlighter-rouge">title</code> field that can be found in the ‘general.yaml’ file in the data folder and this <code class="language-plaintext highlighter-rouge">logo_subtitle</code> field.</p>
+
+<h3 id="mobile-view-at">Mobile view at</h3>
+
+<p>This numeric value determines at which width the class ‘mobilemenu’ is added to the body. This class acts as a adjustable media query. In the example it   is set to 1000, which means a width of 1000 pixels.</p>
+
+<h3 id="sticky_header">Sticky_header</h3>
+
+<p>When you choose CSS ‘sticky’ header refers to a type of header element that maintains its position on the screen while scrolling, up until a specified point where it becomes fixed. Unlike a regular static header, a sticky header will stay visible to the user, even as they scroll through the content on the webpage. A ‘sticky’ header is achieved by applying the CSS position property with a value of ‘sticky’ to the header element.</p>
+
+<h3 id="menuitems">Menuitems</h3>
+
+<p>This is an array that holds the footer menu. The items in this array consist of a <code class="language-plaintext highlighter-rouge">title</code> and a <code class="language-plaintext highlighter-rouge">link</code> field. In the title you put the page title and in link you put the relative url of that page.</p>
+
+<h3 id="call-to-action-cta">Call To Action (CTA)</h3>
+
+<p>The header CTA is the button in the top right corner of each page. You can turn the CTA ‘on’ or ‘off’ by setting the ‘active’ variable to true or false. The title and the link define the text and link of the button.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cta:
+  active: false
+  title: Get started
+  link: /get-started/
+</code></pre></div></div>
+
+<h3 id="preheader">Preheader</h3>
+
+<p>Preheader is defined as the first ‘section’, at the top of the page body. You can activate it, choose a dark or light style and define which text to show.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>preheader: 
+  active: false
+  is_light: false
+</code></pre></div></div>
