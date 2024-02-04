@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Settings on </title>
+    <link>https://www.hugobricks.preview.usecue.com/docs/settings/</link>
+    <description>Recent content in Settings on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <atom:link href="https://www.hugobricks.preview.usecue.com/docs/settings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Footer</title>
+      <link>https://www.hugobricks.preview.usecue.com/docs/settings/footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/docs/settings/footer/</guid>
+      <description>Show logo With this boolean variable you can choose between showing the logo in the footer, or just the name of the website.&#xA;Menu items This is an array that holds the footer menu. The items in this array consist of a title and a link field. In the title you put the page title and in link you put the relative url of that page.&#xA;Socials This is an array that holds the social links.</description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>https://www.hugobricks.preview.usecue.com/docs/settings/general/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/docs/settings/general/</guid>
+      <description>Title The title field holds the title of the website. This is used in the SEO title of the page and in the footer if you choose not to use a logo there.&#xA;Description The description is used for the meta description (SEO field) when the page has no (other) content.&#xA;Favicon image A website is not complete without a nice favicon image (shown in the address bar of your browser).</description>
+    </item>
+    <item>
+      <title>Header</title>
+      <link>https://www.hugobricks.preview.usecue.com/docs/settings/header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/docs/settings/header/</guid>
+      <description>Logo image This sets the image in the header. Omitting a value here results in a &amp;rsquo;text logo&amp;rsquo; as you can see on this website. The text logo consists of the value in title field that can be found in the &amp;lsquo;general.yaml&amp;rsquo; file in the data folder and the logo_subtitle field that you can find in this data file.&#xA;Logo subtitle When you choose to omit the value for logo_image the &amp;rsquo;text logo&amp;rsquo; will appear.</description>
+    </item>
+  </channel>
+</rss>
