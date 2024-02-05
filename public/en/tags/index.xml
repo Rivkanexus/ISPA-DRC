@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://www.hugobricks.preview.usecue.com/en/tags/</link>
+    <link>https://Rivkanexus.github.io/ISPA-DRC/en/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.hugobricks.preview.usecue.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Rivkanexus.github.io/ISPA-DRC/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>jamstack</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/tags/jamstack/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/en/tags/jamstack/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/tags/jamstack/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/en/tags/jamstack/</guid>
       <description></description>
     </item>
     <item>
       <title>performance</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/tags/performance/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/en/tags/performance/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/tags/performance/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/en/tags/performance/</guid>
       <description></description>
     </item>
     <item>
       <title>code</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/tags/code/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/en/tags/code/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/tags/code/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/en/tags/code/</guid>
       <description></description>
     </item>
   </channel>

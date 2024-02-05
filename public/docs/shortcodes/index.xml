@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shortcodes on </title>
-    <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/</link>
+    <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/</link>
     <description>Recent content in Shortcodes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <atom:link href="https://www.hugobricks.preview.usecue.com/docs/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breadcrumbs</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/breadcrumbs/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/breadcrumbs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/breadcrumbs/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/breadcrumbs/</guid>
       <description>Breadcrumb paths are a single line of links (often placed above the title) that show a page&amp;rsquo;s location in the site hierarchy. Every website should have breadcrumbs, as it benefits SEO as well as the users understanding of the sites structure. See in action on the Elements page. To show the breadcrumbs, write the following &amp;lsquo;code&amp;rsquo;:&#xA;{{&amp;lt; breadcrumbs &amp;gt;}} </description>
     </item>
     <item>
       <title>Button</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/button/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/button/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/button/</guid>
       <description>Buttons are a great way to drive conversion. They are actually links with the class &amp;lsquo;button&amp;rsquo;. You can see them in action on the Elements page. To show a button, write the following &amp;lsquo;code&amp;rsquo;:&#xA;{{&amp;lt; button &amp;#34;Get started for free&amp;#34; &amp;#34;/get-started/&amp;#34; &amp;gt;}} </description>
     </item>
     <item>
       <title>Contact buttons</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/contactbuttons/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/contactbuttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/contactbuttons/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/contactbuttons/</guid>
       <description>Contact buttons offer a quick and visual way to contact the site owner. The settings for these buttons can be found in the &amp;lsquo;contact&amp;rsquo; section of the &amp;lsquo;general.yaml&amp;rsquo; file in the data directory. You can see the contact buttons in action on the Elements page. To show the contact buttons, write the following shortcode:&#xA;{{&amp;lt; contactbuttons &amp;gt;}} </description>
     </item>
     <item>
       <title>Contact form</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/contact-form/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/contact-form/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/contact-form/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/contact-form/</guid>
       <description>The contact form is an essential part for your websites conversion. The settings for this form can be found in the &amp;lsquo;contactform.yaml&amp;rsquo; file in the data directory. You can see the form in action on the Elements page. To show the contact form in your content, write the following shortcode:&#xA;{{&amp;lt; contactform &amp;gt;}} </description>
     </item>
     <item>
       <title>F.A.Q.</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/faq/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/faq/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/faq/</guid>
       <description>Want to add a block with the most frequently asked questions? Then use the code below. Do you want to see it in action? Have a look at the FAQ page or the Elements page.&#xA;{{&amp;lt; faq &amp;gt;}} The data for the FAQ&amp;rsquo;s is stored in the faqs.yaml in the data folder and looks like this:&#xA;- title: Hugobricks theme faqs: - question: Why choose Hugobricks for my next project? answer: Hugo allows you to build a fast, efficient, .</description>
     </item>
     <item>
       <title>Gallery</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/gallery/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/gallery/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/gallery/</guid>
       <description>The gallery shortcode enables you to transform a folder in your asset directory into an image gallery. You can see it in action on the Elements page. To show an image gallery, write the following &amp;lsquo;code&amp;rsquo;:&#xA;{{&amp;lt; gallery dir=&amp;#34;/uploads/gallery/&amp;#34; &amp;gt;}} </description>
     </item>
     <item>
       <title>Map</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/map/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/map/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/map/</guid>
       <description>A map is basically an image with a marker on top of it. The marker can be found in the &amp;lsquo;/static/img/&amp;rsquo; directory. Make sure to make your map image large enough, as it does not scale. The minimum size is a 900x400 pixel image. You can see the map shortcode in action on the Elements page. To show the map in your content, write the following shortcode:&#xA;{{&amp;lt; map &amp;#34;/uploads/map.png&amp;#34; &amp;#34;https://link.</description>
     </item>
     <item>
       <title>Social buttons</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/socialbuttons/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/socialbuttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/socialbuttons/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/socialbuttons/</guid>
       <description>If you want to link to social media you can use the social media buttons shortcode. The settings for these icons can be found in the &amp;lsquo;footer.yaml&amp;rsquo; file in the data directory. You can see the social buttons in action on the Elements page. To show the social buttons, write the following shortcode:&#xA;{{&amp;lt; socialbuttons &amp;gt;}} </description>
     </item>
     <item>
       <title>Subpages</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/subpages/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/subpages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/subpages/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/subpages/</guid>
       <description>Sometimes, like here, you want to show a list of the subpages. This shortcode makes that really easy. It outputs a simple unordered list with links. To show the subpages, write the following shortcode:&#xA;{{&amp;lt; subpages &amp;gt;}} </description>
     </item>
     <item>
       <title>Tabs</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/tabs/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/tabs/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/tabs/</guid>
       <description>You can see the form in action on the Elements page.&#xA;{{&amp;lt; tabs &amp;gt;}} ## Tab1 Aliquam et dictum sem. --- ## Tab2 Aliquam et dictum sem. {{&amp;lt; /tabs &amp;gt;}} </description>
     </item>
     <item>
       <title>Video</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/video/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/video/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/video/</guid>
       <description>The video shortcode enables you to put an HTML5 video in your project. You can see it in action on the Elements page. To show a HTML5 video, write the following &amp;lsquo;code&amp;rsquo;:&#xA;{{&amp;lt; video &amp;#34;/uploads/video/flowers.mp4&amp;#34; &amp;gt;}} </description>
     </item>
     <item>
       <title>Youtube</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/shortcodes/youtube/</link>
+      <link>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/youtube/</guid>
+      <guid>https://Rivkanexus.github.io/ISPA-DRC/docs/shortcodes/youtube/</guid>
       <description>Youtube is a popular video streaming service ( from a company that is known for tracking and profiling, though). The solution is to host the poster yourself and link it to Youtube. This can be done using this shortcode.&#xA;You can see it in action on the Elements page. To show a Youtube video embed, write the following &amp;lsquo;code&amp;rsquo;:&#xA;{{&amp;lt; youtube &amp;#34;qtIqKaDlqXo&amp;#34; &amp;#34;/uploads/youtubeposter.jpg&amp;#34; &amp;gt;}} </description>
     </item>
   </channel>
