@@ -68,7 +68,7 @@
             {{ range $.Site.Home.AllTranslations }}
             <li><a href="{{ .RelPermalink }}">
               {{ if (eq .Language.LanguageName "French") }}
-                {{ if (eq site.LanguageCode "en") }}
+                {{ if (eq site.LanguageCode "fr") }}
                   {{.Language.LanguageName}}
                 {{else}}
                   {{"Français"}}
