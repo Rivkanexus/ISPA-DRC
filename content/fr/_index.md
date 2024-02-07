@@ -23,7 +23,7 @@ Le projet RDC-IX  est lâ€™infrastructure moderne de Nouvelles Technologies de lâ
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
 
-### Covers all components
+### This is a title
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
 
-### 99+ Google Lighthouse score
+### This is a title too
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
 
-### Themeable through CSS variables
+### This is also a title
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 

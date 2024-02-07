@@ -614,18 +614,6 @@
                 href="https://www.hugobricks.preview.usecue.com/history/"
                 />
   </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/_temp/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/_temp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/_temp/"
-                />
-  </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/docs/bricks/image/</loc>
     <xhtml:link
                 rel="alternate"

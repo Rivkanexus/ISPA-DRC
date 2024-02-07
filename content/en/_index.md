@@ -22,21 +22,24 @@ ISPA-DRC through the RDC-IX project has three locations; Kinshasa, Lubumbashi an
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Covers all components
+
+### This is a title
 
 We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### 99+ Google Lighthouse score
+
+### This is a title too
 
 Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Themeable through CSS variables
+
+### This is also a title
 
 Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
