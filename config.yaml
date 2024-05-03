@@ -17,7 +17,7 @@ languages:
     weight: 2
     disabled: false
   fr:
-    languageName: French
+    languageName: Français
     contentDir: content/fr
     languageCode: fr
     weight: 1

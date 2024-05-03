@@ -10,11 +10,11 @@ languages:
   en:
     languageName: English
     contentDir: content/en
-    weight: 1
-  fr:
-    languageName: French
-    contentDir: content/fr
     weight: 2
+  fr:
+    languageName: Français
+    contentDir: content/fr
+    weight: 1
 ```
 
 Additionally, you need some string translations. They can be found in the 'i18n' folder and you will find a file for every language. This files are yaml files and the 'nl.yaml' file looks like this:

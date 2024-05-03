@@ -12,7 +12,7 @@ languages:
     contentDir: content/en
     weight: 1
   fr:
-    languageName: French
+    languageName: Français
     contentDir: content/fr
     weight: 2
 ```
