@@ -266,6 +266,18 @@
                 href="https://www.hugobricks.preview.usecue.com/en/posts/the-stackless-way/"
                 />
   </url><url>
+    <loc>https://www.hugobricks.preview.usecue.com/en/statistics/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.hugobricks.preview.usecue.com/statistics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hugobricks.preview.usecue.com/en/statistics/"
+                />
+  </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/en/docs/bricks/404/</loc>
     <xhtml:link
                 rel="alternate"
@@ -746,6 +758,30 @@
                 href="https://www.hugobricks.preview.usecue.com/en/newsletter/"
                 />
   </url><url>
+    <loc>https://www.hugobricks.preview.usecue.com/en/our-projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.hugobricks.preview.usecue.com/our-projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hugobricks.preview.usecue.com/en/our-projects/"
+                />
+  </url><url>
+    <loc>https://www.hugobricks.preview.usecue.com/en/docs/bricks/team/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.hugobricks.preview.usecue.com/docs/bricks/team/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hugobricks.preview.usecue.com/en/docs/bricks/team/"
+                />
+  </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/en/team/</loc>
     <xhtml:link
                 rel="alternate"
@@ -888,18 +924,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.hugobricks.preview.usecue.com/en/docs/shortcodes/tabs/"
-                />
-  </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/docs/bricks/team/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/docs/bricks/team/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/docs/bricks/team/"
                 />
   </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/en/docs/bricks/title/</loc>

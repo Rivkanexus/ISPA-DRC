@@ -12,10 +12,12 @@ menuitems:
   - title: Communauté
     link: 
     items: 
+      - title: Membres ISPA-DRC
+        link: /members/
+      - title: Nos projets
+        link: /our-projects/
       - title: IXPs
         link: /ixps/
-      - title: Membres
-        link: /members/
       - title: Partenariats
         link: /partnerships/
   - title: Ressources
@@ -27,6 +29,9 @@ menuitems:
         link: /newsletter/
       - title: F.A.Q.
         link: /faq/
+  - title: Statistics
+    slug: en
+    link: /en/statistics
   - title: Contact
     link: /contact/
 cta:

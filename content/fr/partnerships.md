@@ -25,7 +25,6 @@ Le but de ce partenariat est de faciliter le service à valeur ajoutée que RDC-
 Ce partenariat est basé sur l’appui à apporter aux différents programmes de formation initiés par l’association.
 
 - <a href="https://afrinic.net/">AFRINIC</a>
-- <a href="https://afrispa.org/">AFRISPA</a>
 - <a href="https://www.afnog.org/index.php">AFNOG</a>
 - <a href="https://www.internetsociety.org/">ISOC</a>
 - <a href="https://www.netnod.se/">Netnod-Sweden</a>

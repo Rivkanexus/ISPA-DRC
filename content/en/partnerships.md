@@ -25,7 +25,6 @@ The purpose of this partnership is to facilitate the value-added service that RD
 This partnership is based on the support to be provided to the various training programs initiated by the association.
 
 - <a href="https://afrinic.net/">AFRINIC</a>
-- <a href="https://afrispa.org/">AFRISPA</a>
 - <a href="https://www.afnog.org/index.php">AFNOG</a>
 - <a href="https://www.internetsociety.org/">ISOC</a>
 - <a href="https://www.netnod.se/">Netnod-Sweden</a>

@@ -79,6 +79,13 @@
       <description>The Stackless Way wants to give beginners a gradual path from simple HTML into more power without encountering frameworks or build tools as a barrier. It shares my conviction that &amp;rsquo;there are no shortcuts&amp;rsquo; and &amp;lsquo;you need to master your sword&amp;rsquo;.&#xA;Good old HTML The Stackless Way uses standard HTML elements. Daniel Kehoe, who inspired me to write something about Stackless, proposes to use custom HTML elements that are enriched with javascript, but I am a purist: loading unknown code from a package manager is not plain and Stackless enough for me.</description>
     </item>
     <item>
+      <title></title>
+      <link>https://www.hugobricks.preview.usecue.com/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/statistics/</guid>
+      <description>https://portal.ispa-drc.cd/statistics/ixp - all traffic&#xA;IXPs&#xA;http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=26 http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=30&amp;Itemid=29 http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=34 In the menu &amp;ldquo;Statistiques&amp;rdquo; add the following subheadings: RDC-IX stat, KINIX stat, LUBIX stat, GOMIX stat.&#xA;RDC-IX to show the graph of global statistics KINIX stat for only the KINIX graph LUBIX stat for only the LUBIX graph GOMIX stat for only the GOMIX graph</description>
+    </item>
+    <item>
       <title>404 (not found)</title>
       <link>https://www.hugobricks.preview.usecue.com/docs/bricks/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -167,7 +174,7 @@
       <link>https://www.hugobricks.preview.usecue.com/documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/documents/</guid>
-      <description>HomeDocuments Ressources et documentation Ci-dessous, vous trouverez un certain nombre de documents relatifs aux politiques de l&amp;rsquo;ISPA-RDC. Veuillez nous contacter si vous ne trouvez pas de ressource.&#xA;ISPA-DRC Document de Règlement Intérieur&#xA;ISPA-DRC Statuts&#xA;The Ultimate Hugo theme Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.&#xA;Covers all components We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.</description>
+      <description>HomeDocuments Ressources et documentation Ci-dessous, vous trouverez un certain nombre de documents relatifs aux politiques de l&amp;rsquo;ISPA-RDC. Veuillez nous contacter si vous ne trouvez pas de ressource.&#xA;ISPA-DRC Document de Règlement Intérieur&#xA;ISPA-DRC Statuts&#xA;CHARTE.RDC-IX</description>
     </item>
     <item>
       <title>Elements</title>
@@ -328,7 +335,7 @@
       <link>https://www.hugobricks.preview.usecue.com/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/members/</guid>
-      <description>HomeMembers Members # Membre ASN Les Pays 1 AFRICELL AS8762 Ghana 2 AIRTEL AS8762 Kenya 3 AFRINET AS8762 South Africa 4 BCS AS8762 abc 5 COMTECH AS8762 abc 6 DHI AS8762 abc 7 FAST CONGO AS8762 abc 8 FASTNET AS8762 abc 9 GBS AS8762 abc 10 GVA AS8762 abc 11 KIWI AS8762 abc 12 LIQUIDE AS8762 abc 13 MICROCOM AS8762 abc 14 ORANGE AS8762 abc 15 ORIONCOM AS8762 abc 16 STANDARD AS8762 abc 17 TECHPLUS AS8762 abc 18 UNI LIMITED AS8762 abc 19 UNITED AS8762 abc 20 VODACOM AS8762 abc Rejoignez l&amp;rsquo;adhésion Pour devenir membre de l&amp;rsquo;ISPA-DRC, il faut entreprendre les démarches suivantes :</description>
+      <description>Liste des Membres # Membre Logo Site Web 1 AFRICELL https://www.africell.cd 2 AIRTEL https://www.airtel.cd 3 AFRINET https://www.afrinet.cd 4 BCS https://www.bcs-ea.com/bcs-network-drc.html 5 COMTECH https://www.comtech-rdc.com 6 CSQUARED https://www.csquared.com 7 DHI TELECOM https://dhitelecomdrc.com 8 FAST CONGO https://paratus.africa/drc/ 9 FASTNET https://www.fastnet.cd 10 GBS https://www.gbs.cd 11 GVA https://www.gva.africa 12 KIWI https://www.kiwi.cd 13 LIQUID https://cd.liquid.tech 14 MICROCOM https://www.microcom-rdc.net 15 ORANGE https://www.orange.cd 16 ORIONCOM http://www.orion-rdc.com 17 STANDARD TELECOM http://campagne.stelecom.cd 18 TECHPLUS https://www.techplusys.com 19 UNI LIMITED https://www.un-limited.net 20 UNITED https://unitedrdc.</description>
     </item>
     <item>
       <title>Multiple languages</title>
@@ -345,11 +352,25 @@
       <description> Abonnez-vous à notre Lettre d&amp;rsquo;information Inscrivez-vous à notre newsletter pour recevoir les dernières nouvelles et informations sur ISPA-RDC et nos membres. Name Email address </description>
     </item>
     <item>
-      <title>Our team</title>
+      <title>Nos Projets</title>
+      <link>https://www.hugobricks.preview.usecue.com/our-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/our-projects/</guid>
+      <description>Nos Projets MN (Mise à Niveau): Projet visant la mise à niveau des gestionnaires et IT en tenant compte de l&amp;rsquo;évolution technologique et de la demande des communautés à travers l&amp;rsquo;organisation et la participation aux réunions de transfert et échange d&amp;rsquo;expériences tant au niveau local, national, régional ou mondial. PHCL (Production et Hébergement du Contenu en Local): Projet orienté vers le soutien à la production et à l&amp;rsquo;hébergement du contenu local en local.</description>
+    </item>
+    <item>
+      <title>Notre Équipe</title>
+      <link>https://www.hugobricks.preview.usecue.com/docs/bricks/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/docs/bricks/team/</guid>
+      <description>** **&#xA;Notre Équipe Comité de Gestion Président : Laurent Ntumba&#xA;e-mail : president@ispa-drc.cd Vice-Président : Jean Claude Mudilu&#xA;e-mail : vice-president@ispa-drc.cd Secrétaire Exécutif : Pierre Kasengedia&#xA;E-mail : secrex@ispa-drc.cd Secrétariat Directeurs des opérations : Nico TSHINTU BAKAJIKA Coordonnateur Technique : Daniel Alongi Assistante aux opérations/KINIX : Davina Mputu Assistante aux opérations/LUBIX : Nadège Ilunga Assistante aux opérations/GOMIX : Henock Lomoo E-mail Contact Administration : [info@ispa-drc.cd] Contact Technique : [support@ispa-drc.cd] Téléphone Tel : (+24) 3815406303</description>
+    </item>
+    <item>
+      <title>Notre Équipe</title>
       <link>https://www.hugobricks.preview.usecue.com/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/team/</guid>
-      <description>HomeOur team Notre Équipe L&amp;rsquo;ISPA-RDC dispose de plusieurs équipes chargées de superviser l&amp;rsquo;Association, notamment un Secrétariat supervisant le travail des IXP, un Comité de Gestion, une Commission Juridique et une Commission Technique.&#xA;Secrétariat Nico Tshintu-Bakajika Director of Operations Rings of Uranus hearts of the stars corpus callosum invent the universe take root and flourish concept of the number one.&#xA;Davina Mputu Assistant Administrator Finite but unbounded astonishment two ghostly white figures in coveralls and helmets are softly dancing billions upon billions Vangelis Hypatia.</description>
+      <description>Notre Équipe Comité de Gestion Président: Laurent Ntumba E-mail : president@ispa-drc.cd Vice-Président: Jean Claude Mudilu E-mail : vice-president@ispa-drc.cd Secrétaire Exécutif: Pierre Kasengedia E-mail : secrex@ispa-drc.cd Secrétariat Directeurs des opérations: Nico TSHINTU BAKAJIKA Coordonnateur Technique: Daniel Alongi Assistante aux opérations/KINIX: Davina Mputu Assistante aux opérations/LUBIX: Nadège Ilunga Assistante aux opérations/GOMIX: Henock Lomoo E-mail Contact Administration: [info@ispa-drc.cd] Contact Technique: [support@ispa-drc.cd] Téléphone Tel : (+24) 3815406303</description>
     </item>
     <item>
       <title>Page not found (404)</title>
@@ -420,13 +441,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/docs/shortcodes/tabs/</guid>
       <description>You can see the form in action on the Elements page.&#xA;{{&amp;lt; tabs &amp;gt;}} ## Tab1 Aliquam et dictum sem. --- ## Tab2 Aliquam et dictum sem. {{&amp;lt; /tabs &amp;gt;}} </description>
-    </item>
-    <item>
-      <title>Team</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/bricks/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/bricks/team/</guid>
-      <description>Description coming soon&amp;hellip;</description>
     </item>
     <item>
       <title>Title</title>

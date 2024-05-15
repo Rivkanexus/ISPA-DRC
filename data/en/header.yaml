@@ -14,12 +14,15 @@ menuitems:
   - title: Community
     link: 
     items: 
-      - title: IXPs
-        slug: en
-        link: /en/ixps/
-      - title: Members
+      - title: Members ISPA-DRC
         slug: en
         link: /en/members/
+      - title: Our Projects
+        slug: en
+        link: /en/our-projects/
+      - title: IXPs
+        slug: en
+        link: /en/ixps/     
       - title: Partnerships
         slug: en
         link: /en/partnerships/
@@ -35,6 +38,9 @@ menuitems:
       - title: F.A.Q.
         slug: en
         link: /en/faq/
+  - title: Statistics
+    slug: en
+    link: /en/statistics
   - title: Contact
     slug: en
     link: /en/contact/

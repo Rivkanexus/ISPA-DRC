@@ -71,6 +71,13 @@
       <description>Say you want to achieve a neat Map &amp;lsquo;component&amp;rsquo; (see the first content section at the home page of this sample website). In order to get such a component, just use the markup below. The content in the brick starts with a screenshot of the given map area and the URL of the mapping service provider (Google, OpenstreetMaps, etc). They will automatically be converted into a clickable map. If you want to see this brick in action, take a look at the footer of the contact page.</description>
     </item>
     <item>
+      <title>Notre Équipe</title>
+      <link>https://www.hugobricks.preview.usecue.com/docs/bricks/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/docs/bricks/team/</guid>
+      <description>** **&#xA;Notre Équipe Comité de Gestion Président : Laurent Ntumba&#xA;e-mail : president@ispa-drc.cd Vice-Président : Jean Claude Mudilu&#xA;e-mail : vice-president@ispa-drc.cd Secrétaire Exécutif : Pierre Kasengedia&#xA;E-mail : secrex@ispa-drc.cd Secrétariat Directeurs des opérations : Nico TSHINTU BAKAJIKA Coordonnateur Technique : Daniel Alongi Assistante aux opérations/KINIX : Davina Mputu Assistante aux opérations/LUBIX : Nadège Ilunga Assistante aux opérations/GOMIX : Henock Lomoo E-mail Contact Administration : [info@ispa-drc.cd] Contact Technique : [support@ispa-drc.cd] Téléphone Tel : (+24) 3815406303</description>
+    </item>
+    <item>
       <title>Posts</title>
       <link>https://www.hugobricks.preview.usecue.com/docs/bricks/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -83,13 +90,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/docs/bricks/reviews/</guid>
       <description>Say you want to achieve a neat Reviews &amp;lsquo;component&amp;rsquo;, with some feedback. See the relevant section at the home page of this sample website. Just use the following markup:&#xA;--- title: Page title --- {{&amp;lt; brick_reviews &amp;gt;}} ## What Users Are Saying About Hugobricks Don&amp;#39;t just take our word for it - hear from some of our satisfied users! Check out some of our testimonials below to see what others are saying about Hugobricks.</description>
-    </item>
-    <item>
-      <title>Team</title>
-      <link>https://www.hugobricks.preview.usecue.com/docs/bricks/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/docs/bricks/team/</guid>
-      <description>Description coming soon&amp;hellip;</description>
     </item>
     <item>
       <title>Title</title>

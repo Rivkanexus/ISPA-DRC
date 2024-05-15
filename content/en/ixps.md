@@ -78,4 +78,40 @@ GOMIX offers the following services:
 ![](/uploads/brancheslogos/GOMIX.png)
 
 {{< /tabs >}}
+
+## Conditions for connecting to the IXP
+
+To connect to one of our IXPs you must meet the following conditions:
+
+- Have an ASN and public IP addresses
+- Ensure a connection between the IXP and its network
+- Read the RDC-IX charter carefully
+- Complete the connection agreement form
+- Pay an amount of $3,500 as connection fees to each of our IXPs
+
+## Downloads
+
+- <a class="has_icon" href=http://localhost:1313/uploads/documents/CHARTE.RDC-IX.pdf>RDC-IX Charter (in French)</a>
+<!-- ![ISPA-DRC International Regulations Document]<uploads/documents/CHARTE.RDC-IX.pdf> -->
+
+- <a class="has_icon" href=http://localhost:1313/uploads/documents/FICHE.DECONVENTION.DE.CONNEXION.@.pdf>Connection Agreement (in French)</a>
+<!-- ![Formulaire de Candidature] <uploads/documents/FICHE.DECONVENTION.DE.CONNEXION.@.pdf> -->
+
+## Submit Document
+
+<form>
+  <label for="fname">First Name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last Name:</label><br>
+  <input type="text" id="lname" name="lname"><br>
+   <label for="email">Email:</label><br>
+  <input type="text" id="email" name="email"><br>
+  <label for="file">Upload completed document:</label><br>
+  <input type="file" id="myFile" name="filename"><br>
+  <input type="checkbox" id="checkbox" name="agree" value="agree">
+  <label for="Agree"> J'ai lu et accepté la <a href="/privacy-policy">Politique de confidentialité.</p><br>
+</label><div class="mb-10 flex items-start gap-2">
+</label><button type="submit">Soumettre</button>
+</form>
+
 {{< /brick_wide >}}

@@ -79,6 +79,13 @@
       <description>The Stackless Way wants to give beginners a gradual path from simple HTML into more power without encountering frameworks or build tools as a barrier. It shares my conviction that &amp;rsquo;there are no shortcuts&amp;rsquo; and &amp;lsquo;you need to master your sword&amp;rsquo;.&#xA;Good old HTML The Stackless Way uses standard HTML elements. Daniel Kehoe, who inspired me to write something about Stackless, proposes to use custom HTML elements that are enriched with javascript, but I am a purist: loading unknown code from a package manager is not plain and Stackless enough for me.</description>
     </item>
     <item>
+      <title></title>
+      <link>https://www.hugobricks.preview.usecue.com/en/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/en/statistics/</guid>
+      <description>https://portal.ispa-drc.cd/statistics/ixp - all traffic&#xA;IXPs&#xA;http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=26 http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=30&amp;Itemid=29 http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=34 In the menu &amp;ldquo;Statistiques&amp;rdquo; add the following subheadings: RDC-IX stat, KINIX stat, LUBIX stat, GOMIX stat.&#xA;RDC-IX to show the graph of global statistics KINIX stat for only the KINIX graph LUBIX stat for only the LUBIX graph GOMIX stat for only the GOMIX graph</description>
+    </item>
+    <item>
       <title>404 (not found)</title>
       <link>https://www.hugobricks.preview.usecue.com/en/docs/bricks/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -167,7 +174,7 @@
       <link>https://www.hugobricks.preview.usecue.com/en/documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/documents/</guid>
-      <description>HomeDocuments Resources and Documentation Below, you will find a number of documents pertaining to the policies of ISPA-DRC. Please contact us if you cannot find a resource.&#xA;ISPA-DRC Internal Regulations Document&#xA;ISPA-DRC Articles of Association&#xA;The Ultimate Hugo theme Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.&#xA;Covers all components We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.</description>
+      <description>Resources and Documentation Below, you will find a number of documents pertaining to the policies of ISPA-DRC. Please contact us if you cannot find a resource.&#xA;ISPA-DRC Internal Regulations Document (in French)&#xA;ISPA-DRC Articles of Association (in French)&#xA;RDC-IX Charter (in French)</description>
     </item>
     <item>
       <title>Elements</title>
@@ -328,14 +335,14 @@
       <link>https://www.hugobricks.preview.usecue.com/en/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/members/</guid>
-      <description>HomeMembers Members # Member ASN Country 1 AFRICELL AS8762 Ghana 2 AIRTEL AS8762 Kenya 3 AFRINET AS8762 South Africa 4 BCS AS8762 abc 5 COMTECH AS8762 abc 6 DHI AS8762 abc 7 FAST CONGO AS8762 abc 8 FASTNET AS8762 abc 9 GBS AS8762 abc 10 GVA AS8762 abc 11 KIWI AS8762 abc 12 LIQUIDE AS8762 abc 13 MICROCOM AS8762 abc 14 ORANGE AS8762 abc 15 ORIONCOM AS8762 abc 16 STANDARD AS8762 abc 17 TECHPLUS AS8762 abc 18 UNI LIMITED AS8762 abc 19 UNITED AS8762 abc 20 VODACOM AS8762 abc Join the Membership To become a member of the ISPA-DRC, the following steps must be taken:</description>
+      <description>Members # Membre Logo Site Web 1 AFRICELL https://www.africell.cd 2 AIRTEL https://www.airtel.cd 3 AFRINET https://www.afrinet.cd 4 BCS https://www.bcs-ea.com/bcs-network-drc.html 5 COMTECH https://www.comtech-rdc.com 6 CSQUARED https://www.csquared.com 7 DHI TELECOM https://dhitelecomdrc.com 8 FAST CONGO https://paratus.africa/drc/ 9 FASTNET https://www.fastnet.cd 10 GBS https://www.gbs.cd 11 GVA https://www.gva.africa 12 KIWI https://www.kiwi.cd 13 LIQUID https://cd.liquid.tech 14 MICROCOM https://www.microcom-rdc.net 15 ORANGE https://www.orange.cd 16 ORIONCOM http://www.orion-rdc.com 17 STANDARD TELECOM http://campagne.stelecom.cd 18 TECHPLUS https://www.techplusys.com 19 UNI LIMITED https://www.un-limited.net 20 UNITED https://unitedrdc.</description>
     </item>
     <item>
       <title>Multiple languages</title>
       <link>https://www.hugobricks.preview.usecue.com/en/docs/customizations/multiple-languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/docs/customizations/multiple-languages/</guid>
-      <description>Hugobricks has been fully prepared to support a multilingual setup. In the docs you will see the &amp;lsquo;/en/&amp;rsquo; reference more than once. This means you can duplicate and translate all content in as many languages as you want by following a similar pattern with a different language string. Adding a language also requires an additional entry in the &amp;lsquo;config.yaml&amp;rsquo; file. This should then look simlilar to this:&#xA;defaultContentLanguage: en languages: en: languageName: English contentDir: content/en weight: 2 fr: languageName: Français contentDir: content/fr weight: 1 Additionally, you need some string translations.</description>
+      <description>Hugobricks has been fully prepared to support a multilingual setup. In the docs you will see the &amp;lsquo;/en/&amp;rsquo; reference more than once. This means you can duplicate and translate all content in as many languages as you want by following a similar pattern with a different language string. Adding a language also requires an additional entry in the &amp;lsquo;config.yaml&amp;rsquo; file. This should then look simlilar to this:&#xA;defaultContentLanguage: en languages: en: languageName: English contentDir: content/en weight: 1 fr: languageName: Français contentDir: content/fr weight: 2 Additionally, you need some string translations.</description>
     </item>
     <item>
       <title>Newsletter</title>
@@ -345,11 +352,25 @@
       <description> Sign Up to our Newsletter Sign up to our newsletter to receive the latest news and information about ISPA-DRC and our members. Name Email address </description>
     </item>
     <item>
-      <title>Our team</title>
+      <title>Our Projects</title>
+      <link>https://www.hugobricks.preview.usecue.com/en/our-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/en/our-projects/</guid>
+      <description>Our Projects MN (Upgrade): Project aimed at upgrading managers and IT taking into account technological developments and community demand through the organization and participation in transfer meetings and exchange of experiences both at the local, national, regional or global level. PHCL (Production and Hosting of Local Content): Project focused on supporting the production and hosting of local content locally. UIDC (Use of the Internet for Community Development): Project is focused on popularizing and raising awareness of the use of the Internet by local communities for development purposes.</description>
+    </item>
+    <item>
+      <title>Our Team</title>
+      <link>https://www.hugobricks.preview.usecue.com/en/docs/bricks/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/en/docs/bricks/team/</guid>
+      <description>** **&#xA;Our Team Management Committee President: Laurent Ntumba&#xA;e-mail: president@ispa-drc.cd Vice-President: Jean Claude Mudilu&#xA;e-mail: vice-president@ispa-drc.cd Executive Secretary: Pierre Kasengedia&#xA;Email: secrex@ispa-drc.cd Secretariat Operations Directors: Nico TSHINTU BAKAJIKA Technical Coordinator: Daniel Alongi Operations Assistant/KINIX: Davina Mputu Operations assistant/LUBIX: Nadège Ilunga Operations assistant/GOMIX: Henock Lomoo E-mail Administration Contact: [info@ispa-drc.cd] Technical Contact: [support@ispa-drc.cd] Phone Tel: (+24) 3815406303</description>
+    </item>
+    <item>
+      <title>Our Team</title>
       <link>https://www.hugobricks.preview.usecue.com/en/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/team/</guid>
-      <description>HomeOur team Our team ISPA-DRC has several teams in charge of overseeing the Association, this includes a Secretariat overseeing the work of the IXPs, a Management Committee, Legal Commission and Technical Commission.&#xA;Secretariat Nico Tshintu-Bakajika Director of Operations Rings of Uranus hearts of the stars corpus callosum invent the universe take root and flourish concept of the number one.&#xA;Davina Mputu Assistant Administrator Finite but unbounded astonishment two ghostly white figures in coveralls and helmets are softly dancing billions upon billions Vangelis Hypatia.</description>
+      <description>Our Team Management Committee President: Laurent Ntumba E-mail: president@ispa-drc.cd Vice-President: Jean Claude Mudilu E-mail: vice-president@ispa-drc.cd Executive Secretary: Pierre Kasengedia Email: secrex@ispa-drc.cd Secretariat Operations Directors: Nico TSHINTU BAKAJIKA Technical Coordinator: Daniel Alongi Operations Assistant/KINIX: Davina Mputu Operations assistant/LUBIX: Nadège Ilunga Operations assistant/GOMIX: Henock Lomoo E-mail Administration Contact: [info@ispa-drc.cd] Technical Contact: [support@ispa-drc.cd] Phone Tel: (+24) 3815406303</description>
     </item>
     <item>
       <title>Page not found (404)</title>
@@ -420,13 +441,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/docs/shortcodes/tabs/</guid>
       <description>You can see the form in action on the Elements page.&#xA;{{&amp;lt; tabs &amp;gt;}} ## Tab1 Aliquam et dictum sem. --- ## Tab2 Aliquam et dictum sem. {{&amp;lt; /tabs &amp;gt;}} </description>
-    </item>
-    <item>
-      <title>Team</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/docs/bricks/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/docs/bricks/team/</guid>
-      <description>Description coming soon&amp;hellip;</description>
     </item>
     <item>
       <title>Title</title>
