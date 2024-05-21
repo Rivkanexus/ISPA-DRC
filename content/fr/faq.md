@@ -4,13 +4,12 @@ image:
 --- 
 {{< brick_title >}}
 
-{{< breadcrumbs >}}
+# Questions Fréquemment Posées
 
-# Frequently Asked Questions
-
-Almost everything you want to know has been asked before. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+Vous trouverez ici les réponses à nos questions les plus fréquemment posées.
 
 {{< /brick_title >}}
+
 {{< brick_wide >}}
 
 {{< faq >}}

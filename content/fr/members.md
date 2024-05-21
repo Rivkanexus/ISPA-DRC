@@ -38,14 +38,14 @@ To become a member of ISPA-DRC, you must take the following steps:
 - People interested in the development of the internet industry in the Democratic Republic of Congo can become associate or honorary members by contacting ISPA-DRC through the management committee, which, after examining the applications, will give its notices in relation to their subscriptions to the statutes and internal regulations of ISPA-RDC which will be sanctioned by the completion of membership forms; however, candidates for membership must be sponsored by a full member;
 - In certain cases, ISPA-DRC may contact legal or natural persons for the reasons for their possible membership which will be sanctioned by filling out the membership forms as proof of their subscriptions to the statutes and internal regulations.
 - Be the holder of a state document attesting to the authorization to operate in the telecommunications sector in the Democratic Republic of Congo.
-- Read the statutes and internal regulations carefully before completing the membership form
+- Read the statutes and internal regulations carefully before completing the membership form.
 
 ## Downloads
 
 - <a class="has_icon" href=http://localhost:1313/uploads/documents/STATUTS.pdf>STATUTS</a>
-<!-- ![ISPA-DRC International Regulations Document]<uploads/documents/STATUTS.pdf> -->
+<!-- ![STATUTS]<uploads/documents/STATUTS.pdf> -->
 
-- <a class="has_icon" href=http://localhost:1313/uploads/documents/FICHE.D.ADHESION.ISPA-DRC1.pdf>Application Form</a>
+- <a class="has_icon" href=http://localhost:1313/uploads/documents/FICHE.D.ADHESION.ISPA-DRC1.pdf>Formulaire de Candidature</a>
 <!-- ![Formulaire de Candidature] <uploads/documents/IFICHE.D.ADHESION.ISPA-DRC1.pdf> -->
 
 ## Soumettre le Formulaire de Candidature

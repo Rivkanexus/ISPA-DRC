@@ -3,8 +3,6 @@ title: Contact us
 ---
 {{< brick_title >}}
 
-{{< breadcrumbs >}}
-
 # Contactez-nous
 
 Une question sur nos services, l'adhésion à l'Association ou autre ? Remplissez le formulaire pour nous contacter ou contacter le Secrétariat.

@@ -79,13 +79,6 @@
       <description>The Stackless Way wants to give beginners a gradual path from simple HTML into more power without encountering frameworks or build tools as a barrier. It shares my conviction that &amp;rsquo;there are no shortcuts&amp;rsquo; and &amp;lsquo;you need to master your sword&amp;rsquo;.&#xA;Good old HTML The Stackless Way uses standard HTML elements. Daniel Kehoe, who inspired me to write something about Stackless, proposes to use custom HTML elements that are enriched with javascript, but I am a purist: loading unknown code from a package manager is not plain and Stackless enough for me.</description>
     </item>
     <item>
-      <title></title>
-      <link>https://www.hugobricks.preview.usecue.com/en/statistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/statistics/</guid>
-      <description>https://portal.ispa-drc.cd/statistics/ixp - all traffic&#xA;IXPs&#xA;http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=26 http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=30&amp;Itemid=29 http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=34 In the menu &amp;ldquo;Statistiques&amp;rdquo; add the following subheadings: RDC-IX stat, KINIX stat, LUBIX stat, GOMIX stat.&#xA;RDC-IX to show the graph of global statistics KINIX stat for only the KINIX graph LUBIX stat for only the LUBIX graph GOMIX stat for only the GOMIX graph</description>
-    </item>
-    <item>
       <title>404 (not found)</title>
       <link>https://www.hugobricks.preview.usecue.com/en/docs/bricks/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -160,7 +153,7 @@
       <link>https://www.hugobricks.preview.usecue.com/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/contact/</guid>
-      <description>HomeContact us Contact us Have a question about our services, joining the Association or anything else? Complete the form to contact us or reach out to the Secretariat.&#xA;Tell us a bit about yourself Name Email address Message I accept the terms and conditions Got a question? Building Gécamines-Blvd June 30 Kinshasa Gombe Democratic Republic of Congo&#xA;info@ispa-drc.cd&#xA;+243 815 406 303&#xA;Contact us Building Gécamines-Blvd, June 30 Kinshasa Gombe</description>
+      <description>Contact us Have a question about our services, joining the Association or anything else? Complete the form to contact us or reach out to the Secretariat.&#xA;Tell us a bit about yourself Name Email address Message I accept the terms and conditions Got a question? Building Gécamines-Blvd June 30 Kinshasa Gombe Democratic Republic of Congo&#xA;info@ispa-drc.cd&#xA;+243 815 406 303&#xA;Contact us Building Gécamines-Blvd, June 30 Kinshasa Gombe&#xA;Democratic Repblic of Congo</description>
     </item>
     <item>
       <title>cta</title>
@@ -195,7 +188,7 @@
       <link>https://www.hugobricks.preview.usecue.com/en/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/faq/</guid>
-      <description>HomeF.A.Q. Frequently Asked Questions Almost everything you want to know has been asked before. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.&#xA;Hugobricks theme Why choose Hugobricks for my next project? Hugo allows you to build a fast, efficient, and scalable website. It offers you a clean separation of concerns, content vs layout and styles. The Hugobricks brings a pagebuilder to that workflow.</description>
+      <description>Frequently Asked Questions Here, you will find answers to our most commonly asked questions.&#xA;Conditions for Membership in ISPA-DRC What are the Conditions for Membership in ISPA-DRC? Have a license attesting to the authorization to practice in the telecoms sector in the Democratic Republic of Congo and subscribe to the statutes and internal regulations by filling out the form - Application Form How many types of members does ISPA-DRC have?</description>
     </item>
     <item>
       <title>features</title>
@@ -307,7 +300,7 @@
       <link>https://www.hugobricks.preview.usecue.com/en/ixps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/ixps/</guid>
-      <description>HomeIXPs RDC-IX The RDC-IX Project The RDC-IX project is the modern infrastructure of New Information and Communication Technologies contributing to the implementation of associative and neutral exchange points (IXPs) across the different cities of the Democratic Republic of the Congo. This project will allow local traffic between Internet operators located in the same city to remain local and also traffic between Internet operators scattered throughout the different cities of the country to remain national; thus avoiding the multiple satellite jumps that these operators are currently experiencing to exchange content.</description>
+      <description>RDC-IX The RDC-IX Project The RDC-IX project is the modern infrastructure of New Information and Communication Technologies contributing to the implementation of associative and neutral exchange points (IXPs) across the different cities of the Democratic Republic of the Congo. This project will allow local traffic between Internet operators located in the same city to remain local and also traffic between Internet operators scattered throughout the different cities of the country to remain national; thus avoiding the multiple satellite jumps that these operators are currently experiencing to exchange content.</description>
     </item>
     <item>
       <title>map</title>
@@ -384,7 +377,7 @@
       <link>https://www.hugobricks.preview.usecue.com/en/partnerships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/partnerships/</guid>
-      <description>HomePartnerships Partnerships To achieve the assigned objectives, ISPA-DRC calls on the strategic partners involved in the development process of New Information and Communication Technologies. ISPA-DRC projects are carried out in partnership with organizations divided into three categories:&#xA;Development of regulations and policy This partnership is based on the relations contributing to equip ISPA-DRC with the capabilities to effectively negotiate the existence of an appropriate investment climate.&#xA;AF-IX Euro-IX Infrastructure and network development The purpose of this partnership is to facilitate the value-added service that RDC-IX offers to all peering members.</description>
+      <description>Partnerships To achieve the assigned objectives, ISPA-DRC calls on the strategic partners involved in the development process of New Information and Communication Technologies. ISPA-DRC projects are carried out in partnership with organizations divided into three categories:&#xA;Development of regulations and policy This partnership is based on the relations contributing to equip ISPA-DRC with the capabilities to effectively negotiate the existence of an appropriate investment climate.&#xA;AF-IX Euro-IX Infrastructure and network development The purpose of this partnership is to facilitate the value-added service that RDC-IX offers to all peering members.</description>
     </item>
     <item>
       <title>Posts</title>
@@ -427,6 +420,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/docs/shortcodes/socialbuttons/</guid>
       <description>If you want to link to social media you can use the social media buttons shortcode. The settings for these icons can be found in the &amp;lsquo;footer.yaml&amp;rsquo; file in the data directory. You can see the social buttons in action on the Elements page. To show the social buttons, write the following shortcode:&#xA;{{&amp;lt; socialbuttons &amp;gt;}} </description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>https://www.hugobricks.preview.usecue.com/en/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/en/statistics/</guid>
+      <description> Global Traffic Statistics RDC-IX Stats ISPA-DRC Combined Global Traffic Statistics&#xA;https://portal.ispa-drc.cd/statistics/ixp - all traffic&#xA;KINIX Stats KINIX stat for only the KINIX graph&#xA;http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=26 LUBIX Stats LUBIX stat for only the LUBIX graph&#xA;http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=30&amp;Itemid=29 GOMIX Stats GOMIX stat for only the GOMIX graph&#xA;http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=34 </description>
     </item>
     <item>
       <title>Subpages</title>

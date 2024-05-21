@@ -3,8 +3,6 @@ title: Documents
 ---
 {{< brick_title >}}
 
-{{< breadcrumbs >}}
-
 ![](/uploads/photos/bricks.png)
 
 # Ressources et documentation

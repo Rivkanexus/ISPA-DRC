@@ -266,18 +266,6 @@
                 href="https://www.hugobricks.preview.usecue.com/posts/the-stackless-way/"
                 />
   </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/statistics/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/statistics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/statistics/"
-                />
-  </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/docs/bricks/404/</loc>
     <xhtml:link
                 rel="alternate"
@@ -900,6 +888,18 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://www.hugobricks.preview.usecue.com/docs/shortcodes/socialbuttons/"
+                />
+  </url><url>
+    <loc>https://www.hugobricks.preview.usecue.com/statistics/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hugobricks.preview.usecue.com/en/statistics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.hugobricks.preview.usecue.com/statistics/"
                 />
   </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/docs/shortcodes/subpages/</loc>

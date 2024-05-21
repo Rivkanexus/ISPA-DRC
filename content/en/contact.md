@@ -3,8 +3,6 @@ title: Contact us
 ---
 {{< brick_title >}}
 
-{{< breadcrumbs >}}
-
 # Contact us
 
 Have a question about our services, joining the Association or anything else? Complete the form to contact us or reach out to the Secretariat.

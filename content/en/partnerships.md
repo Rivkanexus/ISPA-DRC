@@ -3,8 +3,6 @@ title: Partnerships
 ---
 {{< brick_wide >}}
 
-{{< breadcrumbs >}}
-
 # Partnerships
 
 To achieve the assigned objectives, ISPA-DRC calls on the strategic partners involved in the development process of New Information and Communication Technologies. ISPA-DRC projects are carried out in partnership with organizations divided into three categories:

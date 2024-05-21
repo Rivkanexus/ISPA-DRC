@@ -30,8 +30,7 @@ menuitems:
       - title: F.A.Q.
         link: /faq/
   - title: Statistics
-    slug: en
-    link: /en/statistics
+    link: /statistics/
   - title: Contact
     link: /contact/
 cta:
