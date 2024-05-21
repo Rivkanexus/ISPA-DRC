@@ -61,3 +61,16 @@ L'AfPIF vise à favoriser les opportunités de peering et de réseautage en four
 
 {{< /brick_image2 >}}
 
+{{< brick_title >}}
+
+## Statistiques Mondiales du Trafic
+
+{{< /brick_title >}}
+
+{{< brick_wide >}}
+
+[ISPA-DRC Combined Global Traffic Statistics](https://portal.ispa-drc.cd/statistics/ixp)
+
+<https://portal.ispa-drc.cd/statistics/ixp> - all traffic
+
+{{< /brick_wide >}}

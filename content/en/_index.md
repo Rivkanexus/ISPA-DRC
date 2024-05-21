@@ -60,3 +60,17 @@ AfPIF aims to foster peering and networking opportunities by providing a forum w
 {{< button "More" "<https://www.afpif.org/afpif2024/>" >}}
 
 {{< /brick_image2 >}}
+
+{{< brick_title >}}
+
+## Global Traffic Statistics
+
+{{< /brick_title >}}
+
+{{< brick_wide >}}
+
+[ISPA-DRC Combined Global Traffic Statistics](https://portal.ispa-drc.cd/statistics/ixp)
+
+<https://portal.ispa-drc.cd/statistics/ixp> - all traffic
+
+{{< /brick_wide >}}
