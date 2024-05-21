@@ -5,7 +5,7 @@ title: Home
 
 # Internet Service Providers of DRC
 
-The Internet Service Providers of DRC (ISPA-DRC) is a non-governmental organization, promoting the interests of Internet sector operators, facilitating growth through knowledge and experience in the Internet arena, and contributing to the development of information and communication technologies (ICT) in the Democratic Republic of Congo.
+The Internet Service Providers of DRC (ISPA-DRC) is a non-governmental organization that contributes to the development of information and communication technologies (ICT) in the Democratic Republic of Congo.
 
 {{< button "About Us" "/history/" >}}
 
@@ -17,7 +17,7 @@ The Internet Service Providers of DRC (ISPA-DRC) is a non-governmental organizat
 
 ## Serving the DRC Community
 
-ISPA-DRC through the RDC-IX project has three locations; Kinshasa, Lubumbashi and Goma.
+The RDC-IX project is the modern infrastructure of New Information and Communication Technologies contributing to the implementation of associative and neutral exchange points (IXPs) across the different cities of the Democratic Republic of Congo. In the current and medium term, the Internet points KINIX (KINshasa Internet eXchange), GOMIX (GOMa Internet eXchange) and LUBIX (LUBambashi Internet eXchange) constitute the framework of RDC-IX.
 
 ---
 
@@ -44,3 +44,19 @@ Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit.
 Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 {{< /brick_features >}}
+
+{{< brick_image2 >}}
+
+![](/uploads/illustrations/cuate/afpif2024.png)
+
+# African Peering and Interconnection Forum (AfPIF) 2024
+
+### ISPA-DRC is the local host for the African Peering and Interconnection Forum (AfPIF) 2024. The event will take place from 20 to 22 August 2024 at the Hilton Hotel in Kinshasa, Democratic Republic of the Congo (DRC)
+
+AfPIF is an annual conference that aims to promote the development of national and cross-border interconnection and offers the African technical community a unique opportunity to showcase interconnection challenges and opportunities. It focuses on Internet interconnection dynamics, content distribution, and transit obstacles at local and regional levels.
+
+AfPIF aims to foster peering and networking opportunities by providing a forum where key players- infrastructure and service providers, IXPs, regulators, and policy makers can engage in a relaxed but business-like environment, sharing their experiences and learning from experts in the field.
+
+{{< button "More" "<https://www.afpif.org/afpif2024/>" >}}
+
+{{< /brick_image2 >}}

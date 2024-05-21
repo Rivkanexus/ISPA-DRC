@@ -11,10 +11,7 @@ menuitems:
   - title: Politique de confidentialité
     link:  /privacy-policy/
 socials:
-  - title: Facebook
-    link: https://facebook.com
-    logo_image: /img/facebook.svg
   - title: Twitter
-    link: https://twitter.com
+    link: https://x.com/
     logo_image: /img/twitter.svg    
   
