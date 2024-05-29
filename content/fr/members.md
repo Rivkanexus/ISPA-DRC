@@ -4,18 +4,17 @@ title: Members
 {{< brick_wide >}}
 
 # Liste des Membres
-
-|#  | Membre             |     Logo         | Site Web    |
-| :----------------------------: | :------------------------------| :--------------------:    | -------------------:      |
-| 1  | AFRICELL           | ![](/uploads/photos/MLogos/africell.png)      | https://www.africell.cd    |
-| 2  | AIRTEL             |  ![](/uploads/photos/MLogos/airtel.png)      | https://www.airtel.cd      |
+|#  |       Membre             |                   Logo                 |             Site Web                  |
+| :--: |  :----------------------------:  |  :----------------------------:   |   :------------------------------------:   |
+| 1  |AFRICELL           | ![](/uploads/photos/MLogos/africell.png)      | https://www.africell.cd    |
+| 2  |AIRTEL             |  ![](/uploads/photos/MLogos/airtel.png)      | https://www.airtel.cd      |
 | 3  |AFRINET             |   ![](/uploads/photos/MLogos/afrinet.png)     | https://www.afrinet.cd |
 | 4  |BCS                 |   ![](/uploads/photos/MLogos/bcs.png)    | https://www.bcs-ea.com/bcs-network-drc.html |
 | 5  |COMTECH             |   ![](/uploads/photos/MLogos/comtech.png)    | https://www.comtech-rdc.com      |
-| 6  | CSQUARED           |   ![](/uploads/photos/MLogos/csquared.png)    | https://www.csquared.com       |
+| 6  |CSQUARED           |   ![](/uploads/photos/MLogos/csquared.png)    | https://www.csquared.com       |
 | 7  |DHI TELECOM         |   ![](/uploads/photos/MLogos/dhi.png)    | https://dhitelecomdrc.com       |
 | 8  |FAST CONGO          |   ![](/uploads/photos/MLogos/fastcongo.svg)    | https://paratus.africa/drc/    |
-| 9 |FASTNET             |   ![](/uploads/photos/MLogos/fastnet.jpeg)    | https://www.fastnet.cd        |
+| 9  |FASTNET             |   ![](/uploads/photos/MLogos/fastnet.jpeg)    | https://www.fastnet.cd        |
 | 10 |GBS                 |   ![](/uploads/photos/MLogos/gbs.png)    | https://www.gbs.cd       |
 | 11 |GVA                 |   ![](/uploads/photos/MLogos/gva.svg)    | https://www.gva.africa       |
 | 12 |KIWI                |   ![](/uploads/photos/MLogos/kiwi.png)    | https://www.kiwi.cd        |
@@ -29,20 +28,20 @@ title: Members
 | 20 |UNITED              |   ![](/uploads/photos/MLogos/united.png)    | https://unitedrdc.com          |
 | 21 |VODACOM             |   ![](/uploads/photos/MLogos/voda.png)    | https://www.vodacom.cd         |
 
-## Become a Member
+## Devenez Membre
 
-To become a member of ISPA-DRC, you must take the following steps:
+Pour devenir membre de l'ISPA-RDC, vous devez suivre les étapes suivantes:
 
-- The co-founders are automatically counted as co-founding members of ISPA-RDC;
-- Internet service providers are required to subscribe to the statutes and internal regulations of the ISPA-DRC by completing the membership form and this after having written a request to the ISPA-DRC or after having been contacted by ISPA-DRC;
-- People interested in the development of the internet industry in the Democratic Republic of Congo can become associate or honorary members by contacting ISPA-DRC through the management committee, which, after examining the applications, will give its notices in relation to their subscriptions to the statutes and internal regulations of ISPA-RDC which will be sanctioned by the completion of membership forms; however, candidates for membership must be sponsored by a full member;
-- In certain cases, ISPA-DRC may contact legal or natural persons for the reasons for their possible membership which will be sanctioned by filling out the membership forms as proof of their subscriptions to the statutes and internal regulations.
-- Be the holder of a state document attesting to the authorization to operate in the telecommunications sector in the Democratic Republic of Congo.
-- Read the statutes and internal regulations carefully before completing the membership form.
+- Les co-fondateurs sont automatiquement comptés comme membres co-fondateurs de l'ISPA-RDC ;
+- Les fournisseurs d'accès Internet sont tenus d'adhérer aux statuts et règlement intérieur de l'ISPA-RDC en remplissant le formulaire d'adhésion et ce après avoir écrit une demande à l'ISPA-RDC ou après avoir été contacté par l'ISPA-RDC ;
+- Les personnes intéressées par le développement de l'industrie Internet en République Démocratique du Congo peuvent devenir membres associés ou honoraires en contactant l'ISPA-RDC par l'intermédiaire du comité de gestion qui, après examen des candidatures, donnera ses avis relatifs à leurs adhésions au les statuts et règlements intérieurs de l'ISPA-RDC qui seront sanctionnés par le remplissage des formulaires d'adhésion ; cependant, les candidats à l'adhésion doivent être parrainés par un membre à part entière ;
+- Dans certains cas, ISPA-RDC pourra contacter des personnes morales ou physiques pour les motifs de leur éventuelle adhésion qui sera sanctionnée par le remplissage des formulaires d'adhésion valant preuve de leur adhésion aux statuts et règlement intérieur.
+- Être titulaire d'un document d'État attestant de l'autorisation d'opérer dans le secteur des télécommunications en République Démocratique du Congo.
+- Lire attentivement les statuts et le règlement intérieur avant de remplir le formulaire d'adhésion.
 
-## Downloads
+## Téléchargements
 
-- <a class="has_icon" href=http://localhost:1313/uploads/documents/STATUTS.pdf>STATUTS</a>
+- <a class="has_icon" href=http://localhost:1313/uploads/documents/STATUTS.pdf>Statuts</a>
 <!-- ![STATUTS]<uploads/documents/STATUTS.pdf> -->
 
 - <a class="has_icon" href=http://localhost:1313/uploads/documents/FICHE.D.ADHESION.ISPA-DRC1.pdf>Formulaire de Candidature</a>

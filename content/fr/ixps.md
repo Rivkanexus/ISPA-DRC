@@ -82,7 +82,7 @@ Pour se connecter à l'un des nos IXP il faut remplir les conditions suivantes :
 - Remplir la fiche de convention de connexion
 - Payer un montant de 3500$ comme frais de connexion à chacun de nos IXP
 
-## Télécharger
+## Téléchargements
 
 - <a class="has_icon" href=http://localhost:1313/uploads/documents/CHARTE.RDC-IX.pdf>Charte RDC-IX</a>
 <!-- ![Charte RDC-IX]<uploads/documents/CHARTE.RDC-IX.pdf> -->

@@ -17,7 +17,7 @@ Veuillez nous contacter si vous ne trouvez pas de ressource.
 
 <a class="has_icon" href=http://localhost:1313/uploads/documents/STATUTS.pdf>ISPA-DRC Statuts</a>
 
-<a class="has_icon" href=http://localhost:1313/uploads/documents/CHARTE.RDC-IX.pdf>CHARTE.RDC-IX</a>
+<a class="has_icon" href=http://localhost:1313/uploads/documents/CHARTE.RDC-IX.pdf>Charte.RDC-IX</a>
 <!-- ![REGLEMENT D'ORDRE INTERIEUR ISPA]<uploads/documents/REGLEMENT D'ORDRE INTERIEUR ISPA.pdf> -->
 <!-- ![STATUTS] <uploads/documents/STATUTS.pdf> -->
 <!-- ![CHARTE.RDC-IX] <uploads/documents/CHARTE.RDC-IX.pdf> -->

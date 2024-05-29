@@ -5,17 +5,17 @@ title: Members
 
 # Members
 
-|#  | Membre             |     Logo         | Site Web    |
-| :----------------------------: | :------------------------------| :--------------------:    | -------------------:      |
-| 1  | AFRICELL           | ![](/uploads/photos/MLogos/africell.png)      | https://www.africell.cd    |
-| 2  | AIRTEL             |  ![](/uploads/photos/MLogos/airtel.png)      | https://www.airtel.cd      |
+|#  |       Membre             |                   Logo      &nbsp;           |             Site Web                  |
+| :--: |  :----------------------------: |  :----------------------------:  |   :------------------------------------: |
+| 1  |AFRICELL           | ![](/uploads/photos/MLogos/africell.png)      | https://www.africell.cd    |
+| 2  |AIRTEL             |  ![](/uploads/photos/MLogos/airtel.png)      | https://www.airtel.cd      |
 | 3  |AFRINET             |   ![](/uploads/photos/MLogos/afrinet.png)     | https://www.afrinet.cd |
 | 4  |BCS                 |   ![](/uploads/photos/MLogos/bcs.png)    | https://www.bcs-ea.com/bcs-network-drc.html |
 | 5  |COMTECH             |   ![](/uploads/photos/MLogos/comtech.png)    | https://www.comtech-rdc.com      |
-| 6  | CSQUARED           |   ![](/uploads/photos/MLogos/csquared.png)    | https://www.csquared.com       |
+| 6  |CSQUARED           |   ![](/uploads/photos/MLogos/csquared.png)    | https://www.csquared.com       |
 | 7  |DHI TELECOM         |   ![](/uploads/photos/MLogos/dhi.png)    | https://dhitelecomdrc.com       |
 | 8  |FAST CONGO          |   ![](/uploads/photos/MLogos/fastcongo.svg)    | https://paratus.africa/drc/    |
-| 9 |FASTNET             |   ![](/uploads/photos/MLogos/fastnet.jpeg)    | https://www.fastnet.cd        |
+| 9  |FASTNET             |   ![](/uploads/photos/MLogos/fastnet.jpeg)    | https://www.fastnet.cd        |
 | 10 |GBS                 |   ![](/uploads/photos/MLogos/gbs.png)    | https://www.gbs.cd       |
 | 11 |GVA                 |   ![](/uploads/photos/MLogos/gva.svg)    | https://www.gva.africa       |
 | 12 |KIWI                |   ![](/uploads/photos/MLogos/kiwi.png)    | https://www.kiwi.cd        |

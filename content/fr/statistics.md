@@ -59,8 +59,4 @@ GOMIX stat for only the GOMIX graph
 
 }
 
-
-
-
-
 {{< /brick_wide >}}
