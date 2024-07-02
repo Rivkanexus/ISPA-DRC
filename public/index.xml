@@ -167,7 +167,7 @@
       <link>https://www.hugobricks.preview.usecue.com/documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/documents/</guid>
-      <description>Ressources et documentation Ci-dessous, vous trouverez un certain nombre de documents relatifs aux politiques de l&amp;rsquo;ISPA-RDC. Veuillez nous contacter si vous ne trouvez pas de ressource.&#xA;ISPA-DRC Document de Règlement Intérieur&#xA;ISPA-DRC Statuts&#xA;CHARTE.RDC-IX</description>
+      <description>Ressources et documentation Ci-dessous, vous trouverez un certain nombre de documents relatifs aux politiques de l&amp;rsquo;ISPA-RDC. Veuillez nous contacter si vous ne trouvez pas de ressource.&#xA;ISPA-DRC Document de Règlement Intérieur&#xA;ISPA-DRC Statuts&#xA;Charte.RDC-IX</description>
     </item>
     <item>
       <title>Elements</title>
@@ -422,11 +422,11 @@
       <description>If you want to link to social media you can use the social media buttons shortcode. The settings for these icons can be found in the &amp;lsquo;footer.yaml&amp;rsquo; file in the data directory. You can see the social buttons in action on the Elements page. To show the social buttons, write the following shortcode:&#xA;{{&amp;lt; socialbuttons &amp;gt;}} </description>
     </item>
     <item>
-      <title>Statistics</title>
+      <title>Statistiques</title>
       <link>https://www.hugobricks.preview.usecue.com/statistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/statistics/</guid>
-      <description>Global Traffic Statistics RDC-IX Stats ISPA-DRC Combined Global Traffic Statistics&#xA;https://portal.ispa-drc.cd/statistics/ixp - all traffic&#xA;KINIX Stats KINIX stat for only the KINIX graph&#xA;http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=26 LUBIX Stats LUBIX stat for only the LUBIX graph&#xA;http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=30&amp;Itemid=29 GOMIX Stats GOMIX stat for only the GOMIX graph&#xA;http://www.ispa-drc.cd/index.php?option=com_content&amp;view=article&amp;id=32&amp;Itemid=34 {&#xA;TRAFIC KINIX &amp;lt;/tr&amp;gt; &amp;nbsp;&#xA;&amp;nbsp; }</description>
+      <description> Statistiques Mondiales du Trafic RDC-IX Statistiques Graphique du Jour Graphique de la Semaine Graphique du Mois Graphique de L&amp;rsquo;année </description>
     </item>
     <item>
       <title>Subpages</title>
