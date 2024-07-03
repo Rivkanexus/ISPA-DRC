@@ -1,9 +1,15 @@
 ---
 title: Members
 ---
-{{< brick_wide >}}
+
+{{< brick_title >}}
+
+![](/uploads/photos/bricks.png)
 
 # Members
+
+{{< /brick_title >}}
+{{< brick_wide >}}
 
 |#  |       Membre             |                   Logo      &nbsp;           |             Site Web                  |
 | :--: |  :----------------------------: |  :----------------------------:  |   :------------------------------------: |

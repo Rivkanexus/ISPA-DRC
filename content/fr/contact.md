@@ -3,11 +3,16 @@ title: Contact us
 ---
 {{< brick_title >}}
 
+![](/uploads/photos/bricks.png)
+
 # Contactez-nous
 
-Une question sur nos services, l'adhésion à l'Association ou autre ? Remplissez le formulaire pour nous contacter ou contacter le Secrétariat.
-
 {{< /brick_title >}}
+{{< brick_wide >}}
+
+### Une question sur nos services, l'adhésion à l'Association ou autre ? Remplissez le formulaire pour nous contacter ou contacter le Secrétariat.
+
+{{< /brick_wide >}}
 {{< brick_contact >}}
 
 ## Tu as une question?
@@ -22,5 +27,6 @@ info@ispa-drc.cd
 {{< socialbuttons >}}
 
 {{< /brick_contact >}}
+
 ![](/static/uploads/map2.jpg)
 {{< brick_map >}}{{< /brick_map >}}

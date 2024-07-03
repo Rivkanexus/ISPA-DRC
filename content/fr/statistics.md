@@ -4,13 +4,12 @@ title: Statistiques
 
 {{< brick_title >}}
 
-# Statistiques Mondiales du Trafic
+![](/uploads/photos/bricks.png)
+
+# Statistiques du Trafic - KINIX
 
 {{< /brick_title >}}
-
 {{< brick_wide >}}
-
-## RDC-IX Statistiques
 
 ### Graphique du Jour
 

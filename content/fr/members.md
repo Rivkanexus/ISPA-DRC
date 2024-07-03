@@ -1,9 +1,16 @@
 ---
 title: Members
 ---
-{{< brick_wide >}}
+
+{{< brick_title >}}
+
+![](/uploads/photos/bricks.png)
 
 # Liste des Membres
+
+{{< /brick_title >}}
+{{< brick_wide >}}
+
 |#  |       Membre             |                   Logo                 |             Site Web                  |
 | :--: |  :----------------------------:  |  :----------------------------:   |   :------------------------------------:   |
 | 1  |AFRICELL           | ![](/uploads/photos/MLogos/africell.png)      | https://www.africell.cd    |

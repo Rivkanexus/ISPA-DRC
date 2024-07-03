@@ -1,9 +1,15 @@
 ---
 title: Notre Équipe
 ---
-{{< brick_wide >}}
+
+{{< brick_title >}}
+![](/uploads/photos/bricks.png)
 
 # Notre Équipe
+
+{{< /brick_title >}}
+
+{{< brick_wide >}}
 
 ## Comité de Gestion
 

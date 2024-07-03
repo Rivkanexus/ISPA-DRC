@@ -4,13 +4,13 @@ title: Statistics
 
 {{< brick_title >}}
 
-# Global Traffic Statistics
+![](/uploads/photos/bricks.png)
+
+# KINIX Traffic Statistics
 
 {{< /brick_title >}}
 
 {{< brick_wide >}}
-
-## RDC-IX Stats
 
 ### Day Graph
 

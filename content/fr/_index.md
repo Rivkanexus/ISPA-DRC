@@ -33,7 +33,7 @@ La communauté ISPA RDC comprend nos projets, nos partenariats et nos adhésions
 
 ### Statistiques de trafic pour ISPA-RDC
 
-Les statistiques de trafic pour ISPA-RDC (incluant les sites RDC-IX ; KINIX, GOMIX et LUBIX) sont disponibles sur notre [page de statistiques](/statistics/).
+Accéder aux statistiques de trafic de [KINIX](/statistics/). Les statistiques de GOMIX et LUBIX seront bientôt disponibles.
 
 ---
 

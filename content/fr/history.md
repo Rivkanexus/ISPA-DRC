@@ -1,9 +1,15 @@
 ---
 title: History
 ---
-{{< brick_wide >}}
+
+{{< brick_title >}}
+![](/uploads/photos/bricks.png)
 
 # Notre histoire
+
+{{< /brick_title >}}
+
+{{< brick_wide >}}
 
 L’Internet Service Provider Association Democratic Republic of Congo (ISPA-DRC) est une organisation non gouvernementale de droit congolais, résultant de la volonté manifestée par les opérateurs du secteur Internet désireux de contribuer, par leurs connaissances et expériences dans le domaine Internet, au développement des technologies de l'information et de la communication (TIC) en République Démocratique du Congo. Les résultats poursuivis par ISPA-DRC se résument en l’augmentation de la productivité du travail, grâce à la maîtrise et la vulgarisation de l'outil informatique, avec comme conséquence le développement socioéconomique du pays. ISPA-DRC a pour rôle la défense les intérêts des entreprises vendant les services Internet et la promotion des nouveaux services Internet. Actuellement, ses membres représentent plus de 85 % du nombre total de connexions Internet en République Démocratique du Congo. Les activités de ISPA-DRC sont exercées sur toute l’entendue de la République Démocratique du Congo et partout où ses intérêts se font sentir. ISPA-DRC se constitue en groupe de travail pour traiter de dossiers multiples tels que :
 

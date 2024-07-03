@@ -33,7 +33,7 @@ The ISPA DRC community includes our projects, partnerships and, our Membership. 
 
 ### Traffic Statistics for ISPA-DRC
 
-The traffic statistics for ISPA-DRC (including RDC-IX sites; KINIX, GOMIX and LUBIX) is available on our [statistics page](/en/statistics/).
+Access the traffic statistics for [KINIX](/statistics/). Statistics for GOMIX and LUBIX will be available soon.
 
 ---
 

@@ -3,7 +3,9 @@ title: Newsletter
 ---
 {{< brick_title >}}
 
-## Sign Up to our Newsletter
+![](/uploads/photos/bricks.png)
+
+## ISPA-DRC Newsletter
 
 {{< /brick_title >}}
 
