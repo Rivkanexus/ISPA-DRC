@@ -17,10 +17,6 @@ title: Contact us
 
 ## Tu as une question?
 
-Building Gécamines-Blvd June 30
-Kinshasa Gombe
-Democratic Republic of Congo
-
 info@ispa-drc.cd  
 +243 815 406 303
 
@@ -28,5 +24,5 @@ info@ispa-drc.cd
 
 {{< /brick_contact >}}
 
-![](/static/uploads/map2.jpg)
+![ISPA-DRC Location](/static/uploads/map2.jpg)
 {{< brick_map >}}{{< /brick_map >}}
