@@ -24,5 +24,5 @@ info@ispa-drc.cd
 
 {{< /brick_contact >}}
 
-![ISPA-DRC Location](/static/uploads/map2.jpg)
+![](/static/uploads/map2.jpg)
 {{< brick_map >}}{{< /brick_map >}}
