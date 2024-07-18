@@ -3,9 +3,9 @@ title: 'AfPIF 2024'
 image: /uploads/gallery/johnnathan-tshibangu-BIbsOnzKbM0-unsplash.jpg
 date: 2024-07-15
 tags: 
-  - Events
+  - Événements
   - AfPIF
-  - Partnerships
+  - Partenariats
 ---
 
 Chers Membres de la communauté Internet vous êtes invités à participer á l'édition AfPIF 2024!

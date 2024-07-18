@@ -8,6 +8,6 @@ url: /en/posts/
 
 # News & Blog posts
 
-On this page we share news about ISPA-DRC and or members, we also share interetsing posts on various important topics to and by the Internet community.
+On this page we share news about ISPA-DRC and our members, we also share interetsing posts on various important topics to and by the Internet community.
 
 {{< /brick_posts >}}
