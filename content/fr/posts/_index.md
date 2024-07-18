@@ -8,7 +8,7 @@ url: /posts/
 
 # Actualités et articles de blog
 
-This is a demo of the blog. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+Sur cette page, nous partageons des nouvelles sur ISPA-RDC et/ou ses membres, nous partageons également des articles intéressants sur divers sujets importants pour et par la communauté Internet.
 
 {{< /brick_posts >}}
 {{< brick_cta >}}{{< /brick_cta >}}

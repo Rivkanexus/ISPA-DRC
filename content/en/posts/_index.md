@@ -8,6 +8,6 @@ url: /en/posts/
 
 # News & Blog posts
 
-This is a demo of the blog. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+On this page we share news about ISPA-DRC and or members, we also share interetsing posts on various important topics to and by the Internet community.
 
 {{< /brick_posts >}}
