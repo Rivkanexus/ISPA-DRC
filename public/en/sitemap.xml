@@ -110,21 +110,47 @@
                 href="https://www.hugobricks.preview.usecue.com/en/docs/customizations/"
                 />
   </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/blog/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <loc>https://www.hugobricks.preview.usecue.com/en/tags/afpif/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/blog/"
+                href="https://www.hugobricks.preview.usecue.com/tags/afpif/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/blog/"
+                href="https://www.hugobricks.preview.usecue.com/en/tags/afpif/"
+                />
+  </url><url>
+    <loc>https://www.hugobricks.preview.usecue.com/en/posts/afpif-2024/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.hugobricks.preview.usecue.com/posts/afpif-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hugobricks.preview.usecue.com/en/posts/afpif-2024/"
+                />
+  </url><url>
+    <loc>https://www.hugobricks.preview.usecue.com/en/tags/events/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.hugobricks.preview.usecue.com/tags/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hugobricks.preview.usecue.com/en/tags/events/"
                 />
   </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/en/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -136,34 +162,34 @@
                 href="https://www.hugobricks.preview.usecue.com/en/"
                 />
   </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/tags/jamstack/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <loc>https://www.hugobricks.preview.usecue.com/en/tags/partnerships/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/tags/jamstack/"
+                href="https://www.hugobricks.preview.usecue.com/tags/partnerships/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/tags/jamstack/"
+                href="https://www.hugobricks.preview.usecue.com/en/tags/partnerships/"
                 />
   </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/tags/performance/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <loc>https://www.hugobricks.preview.usecue.com/en/posts/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/tags/performance/"
+                href="https://www.hugobricks.preview.usecue.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/tags/performance/"
+                href="https://www.hugobricks.preview.usecue.com/en/posts/"
                 />
   </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/en/tags/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -173,97 +199,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.hugobricks.preview.usecue.com/en/tags/"
-                />
-  </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/posts/perfect-google-lighthouse-score/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/posts/perfect-google-lighthouse-score/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/posts/perfect-google-lighthouse-score/"
-                />
-  </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/tags/code/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/tags/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/tags/code/"
-                />
-  </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/posts/jamstack-has-matured/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/posts/jamstack-has-matured/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/posts/jamstack-has-matured/"
-                />
-  </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/posts/artisanal-web-development/</loc>
-    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/posts/artisanal-web-development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/posts/artisanal-web-development/"
-                />
-  </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/posts/code-is-poetry/</loc>
-    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/posts/code-is-poetry/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/posts/code-is-poetry/"
-                />
-  </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/posts/has-webp-landed-yet/</loc>
-    <lastmod>2022-09-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/posts/has-webp-landed-yet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/posts/has-webp-landed-yet/"
-                />
-  </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/posts/the-stackless-way/</loc>
-    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/posts/the-stackless-way/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/posts/the-stackless-way/"
                 />
   </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/en/docs/bricks/404/</loc>

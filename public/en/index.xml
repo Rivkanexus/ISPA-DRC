@@ -6,7 +6,7 @@
     <description>Recent content in Home on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.hugobricks.preview.usecue.com/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colors</title>
@@ -37,46 +37,11 @@
       <description>Want to go all the way with customization? No problem! With CSS overrides you can make it even look like this. The sky is the limit. Just write your overrides at the bottom of the &amp;lsquo;style.css&amp;rsquo; file in the &amp;lsquo;/static/css/&amp;rsquo; directory. Look for the following line in this files and write your CSS below:&#xA;/*------------ CSS overrides below --------------*/ Customization examples Some examples of website that use Hugobricks:&#xA;https://www.aadprins.preview.usecue.com https://www.postgrowthcities.com https://www.</description>
     </item>
     <item>
-      <title>This theme has a perfect Google Lighthouse&amp;nbsp;score</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/posts/perfect-google-lighthouse-score/</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/posts/perfect-google-lighthouse-score/</guid>
-      <description>This theme has a (near) perfect Google Lighthouse score. Some people like fast cars. I like fast websites. But how to get to a perfect Google Lighthouse score? Let me explain.&#xA;You might feel that it is nearly impossible to get to a perfect 100% score. You minified your Javascript, properly scaled your images and even combined some requests, but that did not help nearly enough. The problem is: you might be looking at it from the wrong angle.</description>
-    </item>
-    <item>
-      <title>Jamstack has matured</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/posts/jamstack-has-matured/</link>
-      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/posts/jamstack-has-matured/</guid>
-      <description>In the beginning Jamstack was fun. The main SSG was Jekyll, which was simple and open-source. It was not only free to use, but also free to host (on Github). Jamstack websites were blazing fast and scored high in Google Lighthouse. There were plenty of free CMS options to choose from. The Jamstack looked very promising! But times have changed&amp;hellip;&#xA;Jekyll is dead Sure&amp;hellip; you can still use Jekyll. But Jekyll lost its most important developer and Github decided to freeze their Jekyll version.</description>
-    </item>
-    <item>
-      <title>Artisanal web development</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/posts/artisanal-web-development/</link>
-      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/posts/artisanal-web-development/</guid>
-      <description>Yesterday David Large invited me to his Static Feedback show. It was a big honor to be featured there. The interview went by in a flash&amp;hellip; and I want this post to summarize it and add some points that we may have missed.&#xA;What is artisanal web development? Anything CAN be artisanal web development, but what I mean is &amp;lsquo;knowing every line of code that goes into your project&amp;rsquo;. This implies that you are not using frameworks or any other type of third party code.</description>
-    </item>
-    <item>
-      <title>Code is poetry</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/posts/code-is-poetry/</link>
-      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/posts/code-is-poetry/</guid>
-      <description>I found the words &amp;lsquo;code is poetry&amp;rsquo; in the footer of the new Wordpress frontpage, that has been launched recently. I fully agree that code is poetry! I love to read and write beautiful and concise code.&#xA;In a few days I will even be joining CloudCannon on their Youtube show &amp;lsquo;Static Feedback&amp;rsquo; to talk about Artisanal Web Development. This is my hand-crafted take on building sites with absolute knowledge about every line of code.</description>
-    </item>
-    <item>
-      <title>Has WebP landed yet?</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/posts/has-webp-landed-yet/</link>
-      <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/posts/has-webp-landed-yet/</guid>
-      <description>Those who know me, know I care about DX just as much as UX. I will not use a feature that requires prefixes, polyfills or other wizardry. I can wait for a feature to land in your browser. The question I asked myself today (from this perspective) was: Has WebP landed yet?&#xA;Although it is supported in almost any browser, it is not fully supported in Safari on macOS. Safari supports WebP, but it is not working on macOS versions below Big Sur (macOS 11).</description>
-    </item>
-    <item>
-      <title>The Stackless Way</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/posts/the-stackless-way/</link>
-      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/posts/the-stackless-way/</guid>
-      <description>The Stackless Way wants to give beginners a gradual path from simple HTML into more power without encountering frameworks or build tools as a barrier. It shares my conviction that &amp;rsquo;there are no shortcuts&amp;rsquo; and &amp;lsquo;you need to master your sword&amp;rsquo;.&#xA;Good old HTML The Stackless Way uses standard HTML elements. Daniel Kehoe, who inspired me to write something about Stackless, proposes to use custom HTML elements that are enriched with javascript, but I am a purist: loading unknown code from a package manager is not plain and Stackless enough for me.</description>
+      <title>AfPIF 2024</title>
+      <link>https://www.hugobricks.preview.usecue.com/en/posts/afpif-2024/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/en/posts/afpif-2024/</guid>
+      <description>Dear Members of the Internet community, you are invited to participate in the AfPIF 2024 edition!&#xA;This international forum is organized by the Internet Society (ISOC) and the Association of Internet Exchange Points of Africa (Af-IX), in collaboration with ISPA-DRC.&#xA;AfPIF is the largest meeting where peering players and their partners meet for the development of the peering ecosystem in Africa.&#xA;For more information, visit the AfPIF website.</description>
     </item>
     <item>
       <title>404 (not found)</title>

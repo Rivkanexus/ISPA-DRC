@@ -1,12 +1,12 @@
 ---
-title: Blog
-url: /blog/
+title: Nouvelles
+url: /posts/
 ---
 {{< brick_posts >}}
 
 {{< breadcrumbs >}}
 
-# Blog posts
+# Actualités et articles de blog
 
 This is a demo of the blog. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
 

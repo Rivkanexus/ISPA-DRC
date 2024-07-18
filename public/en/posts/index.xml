@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://www.hugobricks.preview.usecue.com/en/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.hugobricks.preview.usecue.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AfPIF 2024</title>
+      <link>https://www.hugobricks.preview.usecue.com/en/posts/afpif-2024/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/en/posts/afpif-2024/</guid>
+      <description>Dear Members of the Internet community, you are invited to participate in the AfPIF 2024 edition!&#xA;This international forum is organized by the Internet Society (ISOC) and the Association of Internet Exchange Points of Africa (Af-IX), in collaboration with ISPA-DRC.&#xA;AfPIF is the largest meeting where peering players and their partners meet for the development of the peering ecosystem in Africa.&#xA;For more information, visit the AfPIF website.</description>
+    </item>
+  </channel>
+</rss>

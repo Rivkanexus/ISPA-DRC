@@ -25,6 +25,8 @@ menuitems:
     items:
       - title: Documents
         link: /documents/
+      - title: Nouvelles
+        link: /posts/
       - title: Bulletin
         link: /newsletter/
       - title: F.A.Q.

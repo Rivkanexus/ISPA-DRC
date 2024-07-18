@@ -32,6 +32,9 @@ menuitems:
       - title: Documents
         slug: en
         link: /en/documents/
+      - title: News
+        slug: en
+        link: /en/posts/
       - title: Newsletter
         slug: en
         link: /en/newsletter/
