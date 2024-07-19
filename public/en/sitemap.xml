@@ -181,6 +181,18 @@
                 href="https://www.hugobricks.preview.usecue.com/en/tags/"
                 />
   </url><url>
+    <loc>https://www.hugobricks.preview.usecue.com/en/statistics/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.hugobricks.preview.usecue.com/statistics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.hugobricks.preview.usecue.com/en/statistics/"
+                />
+  </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/en/docs/bricks/404/</loc>
     <xhtml:link
                 rel="alternate"
@@ -803,18 +815,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.hugobricks.preview.usecue.com/en/docs/shortcodes/socialbuttons/"
-                />
-  </url><url>
-    <loc>https://www.hugobricks.preview.usecue.com/en/statistics/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.hugobricks.preview.usecue.com/statistics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.hugobricks.preview.usecue.com/en/statistics/"
                 />
   </url><url>
     <loc>https://www.hugobricks.preview.usecue.com/en/docs/shortcodes/subpages/</loc>

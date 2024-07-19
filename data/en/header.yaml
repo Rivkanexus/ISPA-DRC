@@ -43,7 +43,7 @@ menuitems:
         link: /en/faq/
   - title: Statistics
     slug: en
-    link: /en/statistics
+    link: https://portal.ispa-drc.cd/statistics/ixp
   - title: Contact
     slug: en
     link: /en/contact/

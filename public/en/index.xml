@@ -41,7 +41,14 @@
       <link>https://www.hugobricks.preview.usecue.com/en/posts/afpif-2024/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/posts/afpif-2024/</guid>
-      <description>Dear Members of the Internet community, you are invited to participate in the AfPIF 2024 edition!&#xA;This international forum is organized by the Internet Society (ISOC) and the Association of Internet Exchange Points of Africa (Af-IX), in collaboration with ISPA-DRC.&#xA;AfPIF is the largest meeting where peering players and their partners meet for the development of the peering ecosystem in Africa.&#xA;For more information, visit the AfPIF website.</description>
+      <description>ISPA-DRC announces to the Internet community that from August 20 to 22, 2024, the 12th edition of the African Peering and Interconnection Forum will be held at the Hilton Hotel in Kinshasa. Nico Tshintu-Bakajika, the Director of operations has issued an open invitation to the community.&#xA;&amp;ldquo;Dear Members of the Internet community, you are invited to participate in the AfPIF 2024 edition! This international forum is organized by the Internet Society (ISOC) and the Association of Internet Exchange Points of Africa (Af-IX), in collaboration with ISPA-DRC.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.hugobricks.preview.usecue.com/en/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hugobricks.preview.usecue.com/en/statistics/</guid>
+      <description></description>
     </item>
     <item>
       <title>404 (not found)</title>
@@ -385,13 +392,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.hugobricks.preview.usecue.com/en/docs/shortcodes/socialbuttons/</guid>
       <description>If you want to link to social media you can use the social media buttons shortcode. The settings for these icons can be found in the &amp;lsquo;footer.yaml&amp;rsquo; file in the data directory. You can see the social buttons in action on the Elements page. To show the social buttons, write the following shortcode:&#xA;{{&amp;lt; socialbuttons &amp;gt;}} </description>
-    </item>
-    <item>
-      <title>Statistics</title>
-      <link>https://www.hugobricks.preview.usecue.com/en/statistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.hugobricks.preview.usecue.com/en/statistics/</guid>
-      <description> KINIX Traffic Statistics Day Graph Week Graph Month Graph Year Graph </description>
     </item>
     <item>
       <title>Subpages</title>
