@@ -30,13 +30,13 @@ Board Members:
     
 ### Permanent Secretary 
 - Organe charge de la gestion quotidienne des activités de ISPA-DRC
-    - Permanent Secretary
-    E-mail : sp@ispa-drc.cd 
+- Permanent Secretary
+E-mail : sp@ispa-drc.cd 
 
-    - Technical Director 
-    E-mail : dt@ispa-drc.cd
+- Technical Director 
+E-mail : dt@ispa-drc.cd
 
-    - Principal Coordinator in charge of Administration and finances 
-    E-mail : cpca@ispa-drc.cd
+- Principal Coordinator in charge of Administration and finances 
+E-mail : cpca@ispa-drc.cd
 
 {{< /brick_wide >}}
