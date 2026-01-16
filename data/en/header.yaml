@@ -22,19 +22,22 @@ menuitems:
         link: /en/members/
       - title: IXPs
         slug: en
-        link: /en/ixps/     
+        link: /en/ixps/ 
+      - title: Our Projects
+        slug: en
+        link: /en/our-projects/    
       - title: Partnerships
         slug: en
         link: /en/partnerships/
-  - title: Our Projects
-    slug: en
-    link: /en/our-projects/
   - title: Resources
     link: 
     items:
       - title: Documents
         slug: en
         link: /en/documents/
+      - title: News
+        slug: en
+        link: /en/posts
       - title: Newsletter
         slug: en
         link: /en/newsletter/
@@ -44,9 +47,6 @@ menuitems:
   - title: Statistics
     slug: en
     link: https://portal.ispa-drc.cd/statistics/ixp
-  - title: News
-    slug: en
-    link: /en/posts/
   - title: Contact
     slug: en
     link: /en/contact/

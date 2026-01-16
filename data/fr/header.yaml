@@ -18,21 +18,21 @@ menuitems:
         link: /members/
       - title: IXPs
         link: /ixps/
+      - title: Nos projets
+        link: /our-projects/
       - title: Partenariats
         link: /partnerships/
-  - title: Nos projets
-    link: /our-projects/
   - title: Ressources
     link: 
     items:
       - title: Documents
         link: /documents/
+      - title: Nouvelles
+        link: /posts/
       - title: Bulletin
         link: /newsletter/
       - title: F.A.Q.
         link: /faq/
-  - title: Nouvelles
-    link: /posts/
   - title: Statistiques
     link: /statistics/
   - title: Contact
