@@ -7,8 +7,8 @@ menuitems:
     items: 
       - title: Notre histoire
         link: /history/
-      - title: Nos structures
-        link: structures
+      - title: Nos Structures
+        link: /structures/
       - title: Notre équipe
         link: /team/
   - title: Communauté

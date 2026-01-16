@@ -8,9 +8,9 @@ menuitems:
       - title: Our History
         slug: en
         link: /en/history/
-      - title: our structures
+      - title: Our Structures
         slug: en
-        link: /en/structures
+        link: /en/structures/
       - title: Our Team
         slug: en
         link: /en/team/
