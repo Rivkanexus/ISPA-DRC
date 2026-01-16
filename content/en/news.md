@@ -1,11 +1,11 @@
 ---
-title: Newsletter
+title: News
 ---
 {{< brick_title >}}
 
 ![](/uploads/photos/bricks.png)
 
-## ISPA-DRC Newsletter
+## ISPA-DRC News
 
 {{< /brick_title >}}
 

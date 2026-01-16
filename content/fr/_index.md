@@ -7,8 +7,6 @@ title: Home
 
 L’Internet Service Provider Association Democratic Republic of Congo (ISPA-DRC) est une organisation au développement des technologies de l'information et de la communication (TIC) en République Démocratique du Congo.
 
-{{< button "À propos de nous" "/history/" >}}
-
 ![](/uploads/photos/bricks.png)
 
 {{< /brick_title2 >}}
@@ -17,7 +15,7 @@ L’Internet Service Provider Association Democratic Republic of Congo (ISPA-DRC
 
 ## Au service de la communauté de la RDC
 
-Le projet RDC-IX  est l’infrastructure moderne de Nouvelles Technologies de l’Information et de la Communication concourant à l’implémentation des points d’échanges (IXP) associatifs et neutres à travers les différentes villes de la République Démocratique du Congo. En cours et moyens termes, les points d’Internet KINIX (KINshasa Internet eXchange), GOMIX (GOMa Internet eXchange) et LUBIX (LUBambashi Internet eXchange) constitueront la charpente de RDC-IX
+Pour servir la communauté, ISPA-DRC travaille sur deux axes dont le premier se rapporte au plaidoyer concourant à l'existence d'un climat favorable au développement de l’industrie Internet en tenant compte des réalités de l’écosystème national et  de l’évolution technologique. Le second est relatif à l'initiation et l'exécution des activités concourant au développement de l’industrie Internet regroupées en quatre programmes.
 
 ---
 

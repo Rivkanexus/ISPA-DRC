@@ -69,7 +69,7 @@ Internet service providers are called upon to subscribe to the statutes and inte
   <input type="checkbox" id="checkbox" name="agree" value="agree">
   <label for="Agree"> I accept the <a href="/privacy-policy">Privacy policy.</p><br>
 </label><div class="mb-10 flex items-start gap-2">
-</label><button type="submit" "mailto:support@ispa-drc.cd">Submit</button>
+</label><button type="submit" "mailto:ad@ispa-drc.cd">Submit</button>
 </form>
 
 {{< /brick_wide >}}

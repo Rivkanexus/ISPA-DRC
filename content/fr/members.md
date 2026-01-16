@@ -68,7 +68,7 @@ Pour devenir membre de l'ISPA-RDC, vous devez suivre les étapes suivantes:
   <input type="checkbox" id="checkbox" name="agree" value="agree">
   <label for="Agree"> J'ai lu et accepté la <a href="/privacy-policy">Politique de confidentialité.</p><br>
 </label><div class="mb-10 flex items-start gap-2">
-</label><button type="submit">Soumettre</button>
+</label><button type="submit" "mailto:ad@ispa-drc.cd">Soumettre</button>
 </form>
 
 {{< /brick_wide >}}

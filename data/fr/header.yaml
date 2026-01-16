@@ -7,6 +7,8 @@ menuitems:
     items: 
       - title: Notre histoire
         link: /history/
+      - title: Nos structures
+        link: structures
       - title: Notre équipe
         link: /team/
   - title: Communauté
@@ -14,28 +16,24 @@ menuitems:
     items: 
       - title: Membres ISPA-DRC
         link: /members/
-      - title: Nos projets
-        link: /our-projects/
       - title: IXPs
         link: /ixps/
       - title: Partenariats
         link: /partnerships/
+  - title: Nos projets
+    link: /our-projects/
   - title: Ressources
     link: 
     items:
       - title: Documents
         link: /documents/
-      - title: Nouvelles
-        link: /posts/
       - title: Bulletin
         link: /newsletter/
       - title: F.A.Q.
         link: /faq/
+  - title: Nouvelles
+    link: /posts/
   - title: Statistiques
     link: /statistics/
   - title: Contact
     link: /contact/
-cta:
-  active: true
-  title: Connexion
-  link: https://portal.ispa-drc.cd/login/
