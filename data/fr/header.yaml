@@ -38,6 +38,6 @@ menuitems:
   - title: Contact
     link: /contact/
     cta:
-    active: false
+    active: disabled
     title: Connexion
     link: https://portal.ispa-drc.cd/login/
