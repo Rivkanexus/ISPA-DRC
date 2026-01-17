@@ -88,11 +88,11 @@ header nav > ul > li.haschildren > a::after {
 
 header nav > ul > li > ul li a:hover {background-color: var(--accent); color: white} 
 
-header > .container {display: flex; align-items: center;}
-header > .container > div {flex: 3; text-align: center;}
+header > .container {display: flex; align-items: left;}
+header > .container > div {flex: 5; text-align: center;}
 header > .container > div:first-child {flex: 1; text-align: left;}
 header > .container.has_cta > div:nth-child(3) { text-align: right;}
-header > .container.has_cta ul {justify-content: center;}
+header > .container.has_cta ul {justify-content: left;}
 header + section.hasbackgroundcolor {margin-top: 0;}
 header + section:not(.bgimage),
 body.transparent_header header + section.bgimage .container {padding-top: 11rem!important;}

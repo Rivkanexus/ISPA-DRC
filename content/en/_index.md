@@ -17,7 +17,6 @@ The Internet Service Providers of DRC (ISPA-DRC) is a non-governmental organizat
 
 ISPA-DRC is dedicated to serving the community through two primary avenues. The first avenue focuses on advocacy that contributes to establishing a favorable environment for the development of the Internet industry, while considering the national ecosystem and technological progress. The second avenue involves the initiation and execution of activities that support the growth of the Internet industry, which are organized into four key programs.
 
-
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
