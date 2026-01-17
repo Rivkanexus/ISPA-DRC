@@ -37,7 +37,4 @@ menuitems:
     link: /statistics/
   - title: Contact
     link: /contact/
-    cta:
-    active: disabled
-    title: Connexion
-    link: https://portal.ispa-drc.cd/login/
+    

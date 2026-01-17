@@ -50,7 +50,4 @@ menuitems:
   - title: Contact
     slug: en
     link: /en/contact/
-    cta:
-    active: disabled 
-    title: Login
-    link: https://portal.ispa-drc.cd/login/
+  
