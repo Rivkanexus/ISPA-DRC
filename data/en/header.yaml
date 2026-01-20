@@ -8,9 +8,6 @@ menuitems:
       - title: Our History
         slug: en
         link: /en/history/
-      - title: Our Structures
-        slug: en
-        link: /en/structures/
       - title: Our Team
         slug: en
         link: /en/team/
@@ -20,12 +17,12 @@ menuitems:
       - title: Members ISPA-DRC
         slug: en
         link: /en/members/
-      - title: IXPs
-        slug: en
-        link: /en/ixps/ 
       - title: Our Projects
         slug: en
-        link: /en/our-projects/    
+        link: /en/our-projects/
+      - title: IXPs
+        slug: en
+        link: /en/ixps/     
       - title: Partnerships
         slug: en
         link: /en/partnerships/
@@ -37,7 +34,7 @@ menuitems:
         link: /en/documents/
       - title: News
         slug: en
-        link: /en/posts
+        link: /en/posts/
       - title: Newsletter
         slug: en
         link: /en/newsletter/
@@ -50,4 +47,7 @@ menuitems:
   - title: Contact
     slug: en
     link: /en/contact/
-  
+cta:
+  active: true
+  title: Login
+  link: https://portal.ispa-drc.cd/login/
